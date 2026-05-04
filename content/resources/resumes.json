@@ -1,0 +1,50 @@
+{
+  "slug": "resumes",
+  "category": "resources-and-guides",
+  "title": "Resumes",
+  "status": "published",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "VMock Resume tool",
+      "body": "VMock Smart Resume is an AI-powered tool that gives you instant, personalised feedback on your resume and lets you tailor it to a specific job opportunity you're interested in. Access it anytime, anywhere to receive tailored improvement suggestions or choose from professional templates that help your resume stand out.",
+      "links": [
+        {
+          "label": "Sign up to VMock",
+          "href": "https://employability.uq.edu.au/get-the-edge/faculty-programs/bel/vmock-resume-tool"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Crafting a Resume",
+      "subheading": "BEL Employability Essentials module",
+      "body": "Your resume is a key part of your job application. It shows your qualifications, experience, skills and accomplishments, and if done well, will help you get a job interview.\n\nIn this module, you'll learn how to create a resume that:\n\n- looks professional\n- highlights your strengths\n- matches the requirements of a specific job.",
+      "links": [
+        {
+          "label": "'Crafting a Resume' module",
+          "href": "https://rise.articulate.com/share/xfDhWh0J_km4BJ7w87JVtVCMjyQefIQX#/"
+        },
+        {
+          "label": "Resume and cover letter writing guide",
+          "href": "https://studenthub.uq.edu.au/docs/408/Resume-Help.pdf",
+          "meta": "PDF, 127.8 KB"
+        },
+        {
+          "label": "Top tips for writing your resume",
+          "href": "https://employability.uq.edu.au/files/179529/SEED-Careers-ResumeTips2022.pdf",
+          "meta": "PDF, 49.3 KB"
+        },
+        {
+          "label": "Resume Checklist",
+          "href": "https://employability.uq.edu.au/files/179903/SEED-Careers-ResumeChecklist2022.pdf",
+          "meta": "PDF, 50.5 KB"
+        }
+      ]
+    }
+  ],
+  "relatedResources": [
+    "cover-letters",
+    "preparing-for-applications"
+  ]
+}

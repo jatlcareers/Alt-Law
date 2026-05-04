@@ -1,0 +1,23 @@
+{
+  "slug": "jatl-recommends",
+  "category": "jatl-career-tips",
+  "title": "JATL Recommends",
+  "status": "partial",
+  "byJatl": true,
+  "intro": "*This page is a work in progress. Content marked below is being finalised.*",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "UQ Pro Bono Centre",
+      "body": "*(Intro paragraph coming soon.)*\n\n**Join the UQ Pro Bono Centre**\n\n- *(How to join - content pending.)*\n- *(How to get onto the service roster email - content pending.)*"
+    },
+    {
+      "type": "prose",
+      "heading": "Organisations for Young Queensland Lawyers",
+      "body": "*(Intro paragraph coming soon.)*\n\n- **Queensland Young Lawyers** - description pending.\n- **The Legal Forecast** - description pending."
+    }
+  ],
+  "relatedPathways": [
+    "community-legal-centres"
+  ]
+}

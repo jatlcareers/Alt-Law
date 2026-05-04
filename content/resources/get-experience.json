@@ -1,0 +1,38 @@
+{
+  "slug": "get-experience",
+  "category": "networking-interviews-recruitment",
+  "title": "Get Experience",
+  "status": "published",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Work-integrated Learning (WIL)",
+      "body": "Gain hands-on experience that counts towards your degree through Work-integrated Learning (WIL) internships and consultancy projects.\n\nThese electives boost your employability by developing:\n\n- professional networks and industry insights\n- an awareness of workplace culture and expectations\n- experiences for your CV/job application\n- transferable skills for a multitude of positions.\n\nTurn your knowledge into practical experience working in business, economics or law with a Work-integrated Learning (WIL) student placement (internship). Earn academic credit while practising your future profession, networking with future peers and learning from industry leaders."
+    },
+    {
+      "type": "prose",
+      "heading": "Internships",
+      "body": "The Law School offers selected students in the Bachelor of Laws (Hons) and dual degree programs the opportunity to gain practical legal experience in a professional setting. (LAWS5114)",
+      "links": [
+        {
+          "label": "Learn about Legal Education placements and apply"
+        },
+        {
+          "label": "BEL Internship Guide"
+        },
+        {
+          "label": "UQ Industry Partners"
+        },
+        {
+          "label": "Check StudentHub for new opportunities"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "heading": "Help is available",
+      "intro": "Book a consult with a WIL Advisor.",
+      "email": "employability@bel.uq.edu.au"
+    }
+  ]
+}

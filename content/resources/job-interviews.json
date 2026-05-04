@@ -1,0 +1,66 @@
+{
+  "slug": "job-interviews",
+  "category": "networking-interviews-recruitment",
+  "title": "Job Interviews",
+  "status": "published",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Preparing for an Interview",
+      "subheading": "BEL Employability Essentials module",
+      "body": "The interview is one of the most important stages of the recruitment process. How well you prepare and present yourself can make a big difference to your success.\n\nThis module will:\n\n- give you insights into what to expect from different interview types\n- help you prepare clear and confident answers\n- build confidence and help you communicate your message effectively.",
+      "links": [
+        {
+          "label": "'Preparing for an Interview' module",
+          "href": "https://rise.articulate.com/share/wtRlfow7GaYpm5OkO5HVnT140W0NQdzj"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Interview prep resources",
+      "body": "Most recruiters use interviews as the main method to screen candidates.\n\nPanels usually ask scenario-based and technical questions to assess fit. Answering professionally using the STAR technique is an effective way to respond. The Interview Questions Bank for the New Colombo Plan helps demonstrate STAR in action and can provide a handy guide when structuring your approach to anticipated questions.\n\nThe Interview guide and checklist and Interview Questions worksheet are some handy resources for preparation.",
+      "links": [
+        {
+          "label": "STAR template",
+          "href": "https://employability.uq.edu.au/files/179384/SEED-Careers-STARE_Template2022.pdf",
+          "meta": "PDF"
+        },
+        {
+          "label": "Interview Questions Bank for the New Colombo Plan",
+          "href": "https://employability.uq.edu.au/files/201264/Interview%20Questions%20NCP.pdf",
+          "meta": "PDF"
+        },
+        {
+          "label": "Interview guide and checklist",
+          "href": "https://employability.uq.edu.au/files/179664/SEED-Careers-InterviewChecklist2022.pdf",
+          "meta": "PDF"
+        },
+        {
+          "label": "Interview Questions worksheet",
+          "href": "https://employability.uq.edu.au/files/201254/Interview%20questions%20bank.pdf",
+          "meta": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Workshops & Programs",
+      "body": "UQ students can access a range of workshops to help you hone your approach to interviews.\n\nThe Employability Award program is a structured program that recognises the personal and professional development you can gain from your involvement in activities above and beyond your academic studies. It is essentially a learning program that will guide you through a range of experiences and reflections to unlock your potential.",
+      "links": [
+        {
+          "label": "UQ Career Development Workshops and Events",
+          "href": "https://employability.uq.edu.au/career-development/events"
+        },
+        {
+          "label": "Employability Award",
+          "href": "https://employability.uq.edu.au/award"
+        }
+      ]
+    }
+  ],
+  "relatedResources": [
+    "preparing-for-applications",
+    "understand-the-recruitment-process"
+  ]
+}

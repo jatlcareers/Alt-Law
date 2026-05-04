@@ -1,0 +1,33 @@
+{
+  "slug": "the-bar",
+  "name": "The Bar",
+  "iconName": "mic",
+  "status": "published",
+  "sections": [
+    {
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "bar-opportunities",
+          "name": "Opportunities for Students",
+          "pathways": [
+            "the-bar"
+          ],
+          "links": [
+            {
+              "label": "Opportunities for Students",
+              "type": "modal",
+              "modalContent": "## Barrister's Work Experience Program\n\nRun by the UQLA. Successful applicants shadow a barrister for two days, usually in September. https://www.uqla.org.au/work-experience\n\n## Job as a Barrister's Assistant or Secretary\n\nBuild contacts in the industry through networking or keep an eye out for advertised roles on popular job websites."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bodyContent": "## What is a Barrister?\n\nIn Queensland, there is a division between the work of solicitors and barristers. A barrister is a specialist advocate who appears before Courts and Tribunals and is an 'Officer of the Court' who practises independently. Typically, barristers working at the private bar accept instructions from solicitors, including those employed by Crown Law, and act for clients in matters that reflect their interest and expertise. Barristers may also be employed by government departments including the Office of the Director of Public Prosecutions or Legal Aid Australia. Barristers are often called upon to give legal advice and assist with dispute resolution. An increasing number of barristers are now specialising in Alternative Dispute Resolution and arbitration. Furthermore, barristers can become involved in law reform and pro bono work through the Bar Association of Queensland.\n\n## Pathways to the Bar\n\nIn Queensland, the Bar is regulated by the Rules of the Bar Association of Queensland. Like solicitors, barristers are required to have a law degree (either the Bachelor of Laws or the Juris Doctor). They must also complete the Practical Legal Training ('PLT') course and be admitted to the legal profession, at which point they receive a solicitor's practising certificate. At this point, a barrister-to-be's path diverges from that of a solicitor. Bar Exams must be undertaken, which cover areas such as legal ethics, practice and procedure, and evidence. Once you pass the exams, you may commence the Bar Practice Course, which runs for six weeks. Both the Exams and the Course are offered through the Bar Association of Queensland.",
+  "relatedPathways": [
+    "criminal-law",
+    "legal-aid-queensland",
+    "government-and-public-service"
+  ]
+}

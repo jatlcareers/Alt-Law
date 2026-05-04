@@ -1,0 +1,65 @@
+{
+  "slug": "career-support",
+  "category": "resources-and-guides",
+  "title": "Career Support",
+  "status": "published",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "My Career Adviser",
+      "body": "My Career Adviser (MCA) is an online flexible career development and employability learning resource. MCA provides a vast array of audio-visual materials (including video content), readings, web pages, modules, and mini-assessments, including Capstone Projects (self, reflective, and automated).\n\nOnce you are enrolled in MCA, you can locate the platform in Blackboard (learn.uq) under the 'Organisations' tab. Expect diverse topics, useful resources and engaging activities.",
+      "links": [
+        {
+          "label": "Sign Up today",
+          "href": "https://employability.uq.edu.au/career-development/my-career-adviser"
+        },
+        {
+          "label": "Career Action Planning: Your professional roadmap",
+          "href": "https://employability.uq.edu.au/files/179264/SEED-Careers-Factsheet-CareerActionPlan%20-%20FINAL.pdf",
+          "meta": "PDF",
+          "description": "A great reflective activity."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "The Business, Economics and Law (BEL) Careers and Employability team",
+      "body": "The BEL Careers and Employability team provides resources, advice, industry insights and work placement opportunities just for BEL students. Tools, events and activities to help you explore your career options, develop your capabilities, and build your professional profile and networks.\n\nNeed to talk to someone in person? Book a face-to-face or online consultation with a BEL Careers Advisor.",
+      "links": [
+        {
+          "label": "Book a Career Consult in StudentHub",
+          "href": "https://studenthub.uq.edu.au/students/appointments/app/topic/243?siteId=1"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Attend an event",
+      "body": "From application writing, professional identity, and interviewing workshops, to networking, career planning and learning about workplace culture, the workshops and events provided by UQ will help you to build capabilities that will make you more employable no matter what direction you choose to take your career in.",
+      "links": [
+        {
+          "label": "UQ Career Development Workshops and Events",
+          "href": "https://employability.uq.edu.au/career-development/events"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "heading": "Contact the team today",
+      "email": "careers@bel.uq.edu.au",
+      "phone": "+61 7 3365 4222",
+      "hours": "8:30am to 4:00pm, Monday to Friday",
+      "address": {
+        "label": "Colin Clark Courtyard, Room 107",
+        "mapHref": "https://maps.uq.edu.au/?campusId=406&zLevel=1&zoom=18&identifier=538231f9483bd3bda1d14980a8f19885175bf94459fd824878cffeaac09a037d"
+      },
+      "social": [
+        {
+          "platform": "Instagram",
+          "handle": "@uqbelstudentlife",
+          "href": "https://www.instagram.com/uqbelstudentlife/"
+        }
+      ]
+    }
+  ]
+}

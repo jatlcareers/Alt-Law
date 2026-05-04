@@ -1,0 +1,97 @@
+{
+  "slug": "international-law",
+  "name": "International Law",
+  "iconName": "globe",
+  "status": "published",
+  "introAbove": "The international law field offers a diverse range of careers domestically and beyond Australia. With human rights breaches and cross-national conflicts at the cornerstone of the public international law sector, there is a major intersection between public policy and international law. Public international law encompasses diverse practice areas and practices in a vast range of organisations.",
+  "topLevelLinks": [
+    {
+      "label": "Testimonials",
+      "type": "testimonials-modal"
+    }
+  ],
+  "sections": [
+    {
+      "displayMode": "table",
+      "orgs": [
+        {
+          "slug": "office-of-international-law",
+          "name": "Office of International Law",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "Within the Commonwealth Attorney-General's Department. *(Cross-link to [Government & Public Service](/pathways/government-and-public-service/).)*"
+        },
+        {
+          "slug": "un-ypp",
+          "name": "United Nations - Young Professionals Programme (YPP)",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "Recruitment for international civil servants with the UN Secretariat. Entrance examination + structured professional development. P-1 / P-2 entry levels. P-2 requires a bachelor's + 2 years experience OR a master's. Applicants must be 32 years old or younger and a national of a participating UN Member State. Applications open in October via the Inspira portal. https://careers.un.org/young-professionals-programme"
+        },
+        {
+          "slug": "un-volunteer",
+          "name": "United Nations - Volunteer Programme (UNV)",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "Managed by UNDP, supporting the SDGs. International / national / online volunteering. Age 18+. 6 to 12 months, renewable up to 4 years. No salary, but Volunteer Living Allowance + travel + health insurance + resettlement allowance. Apply via the UNV Unified Volunteering Platform. https://www.unv.org/become-volunteer"
+        },
+        {
+          "slug": "icj-internship",
+          "name": "International Court of Justice - Internship Programme",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "Open to students and young professionals. Tasks under Registry officials' supervision; placements across Registry departments and divisions. Limited number per year. Unpaid (own travel, accommodation, medical insurance). English or French required. Apply via the ICJ eRecruitment System only - no hardcopy or email. https://www.icj-cij.org/internships"
+        },
+        {
+          "slug": "icc-internship",
+          "name": "International Criminal Court - Internship Programme",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "For final-year university students OR graduates with under 3 years relevant full-time experience. 3 to 6 months full-time at The Hague. Unpaid; own living expenses. English or French. https://www.icc-cpi.int/jobs/internships-and-visiting-professionals"
+        },
+        {
+          "slug": "icc-vpp",
+          "name": "International Criminal Court - Visiting Professionals Programme",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "Bachelor's + 3 years relevant full-time experience. 1 to 6 months full-time. Generally unpaid, but limited funded positions via the ICC Trust Fund for candidates from developing countries. Same URL as above."
+        },
+        {
+          "slug": "pca-internship",
+          "name": "Permanent Court of Arbitration - Internship Programme",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "3 months starting in January / April / July / October. Apply 4 months in advance. Final-year law students or recent graduates with strong academics. Australian native English satisfies the language requirement; Arabic, Chinese, Russian, or Spanish advantageous. Self-funded - applicants need adequate financial resources + health insurance for relocating to Vienna or Mauritius. The PCA provides supporting documentation if a travel visa is required. https://pca-cpa.org/en/about/employment/internship-program/"
+        },
+        {
+          "slug": "uq-embassy",
+          "name": "UQ Embassy Internship Program",
+          "pathways": [
+            "international-law"
+          ],
+          "links": [],
+          "body": "Strengthens UQ-embassy ties through research, reports, and events. All unpaid. Eligibility: Australian citizen or PR + returning to full-time study + faculty approval (academic credit OR unpaid extracurricular). UQ Law / Political Science students can enrol POLS3801 or POLS7521 for credit. Runs over summer and winter breaks, Canberra-based. https://employability.uq.edu.au/uq-embassy-internship-program"
+        }
+      ],
+      "showTestimonialsButton": false
+    }
+  ],
+  "relatedPathways": [
+    "government-and-public-service",
+    "criminal-law"
+  ]
+}

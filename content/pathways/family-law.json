@@ -1,0 +1,32 @@
+{
+  "slug": "family-law",
+  "name": "Family Law",
+  "iconName": "heart-handshake",
+  "status": "published",
+  "introBelow": "Family law is one of the more challenging specialities of law because it involves counselling people through difficult periods of their lives. As a family lawyer, you will assist your clients in navigating divorces, property settlements, post-separation parenting arrangements, financial agreements (\"prenups\"), child support disputes and agreements. Family lawyers may also deal with family matters involving State based issues such as adoption applications and surrogacy arrangements. Family law can also encompass many different areas of law, such as property law, criminal law and even private international law. While some lawyers specialise in one of these processes, many instead maintain a 'general practice', advising their clients on a range of issues.",
+  "sections": [
+    {
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "family-law-organisations",
+          "name": "Organisations",
+          "pathways": [
+            "family-law"
+          ],
+          "links": [
+            {
+              "label": "Organisations",
+              "type": "modal",
+              "modalContent": "## Brisbane Family Law Centre\n\nBrisbane Family Law Centre, led by Director Clarissa Rayward, was established in 2008. The firm prides themselves on providing quality legal advice, a very high standard of client care, as well as a genuine and sincere service. Brisbane Family Law Centre is a specialist family law firm that provides a range of services across family and relationship law, including on matters relating to divorce, surrogacy, adoption, spousal maintenance and property settlement. Career opportunities with the firm can be found on their website. The firm in the past has run work experience programs for students.\n\n## Firms Practicing Family Law\n\n- Barry Nilsson\n- HopgoodGanim\n- Phillips Family Law\n- Damien Greer Lawyers\n- Hirst & Co\n- Mills Oakley\n- Naughton McCarthy\n- Ryan Kruger\n- Cooper Grace Ward\n- DA Family Lawyers\n- Hartley Healy\n- Simonidis Steel\n- Bell Dore\n- Daykin Family Law\n- Feeney Family Law\n- Michael Lynch\n- Page Provan\n- Parry Coates\n- Stewart"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "relatedPathways": [
+    "legal-aid-queensland",
+    "community-legal-centres"
+  ]
+}

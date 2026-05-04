@@ -1,0 +1,28 @@
+{
+  "slug": "plaintiff-personal-injury",
+  "name": "Plaintiff Personal Injury",
+  "iconName": "stethoscope",
+  "status": "published",
+  "introBelow": "Personal injury law deals with general physical and/or psychological damages to an individual that are the fault of another responsible party. Plaintiff personal injury lawyers work to ensure that their clients' rights are protected, and that the client receives a fair settlement to compensate for his or her injuries. A career in plaintiff personal injury law is perfect for an individual with a strong sense of social justice, and who would enjoy a career with a high degree of client contact.",
+  "sections": [
+    {
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "ppi-orgs",
+          "name": "Organisations",
+          "pathways": [
+            "plaintiff-personal-injury"
+          ],
+          "links": [
+            {
+              "label": "Organisations",
+              "type": "modal",
+              "modalContent": "## Maurice Blackburn Lawyers\n\nFounded 1919 by Maurice McRae Blackburn (Labor Party politician and social justice activist). An Australian plaintiff law firm that has represented clients in a number of high-profile cases, including the Centro Class Action and the MUA Waterfront Dispute Case.\n\nThe 12-month Graduate Program provides a broad range of training designed to give you insight into all aspects of plaintiff law. The firm also supports its graduates in their completion of Practical Legal Training. Graduate programs are only run in Queensland and Victoria. Previous Seasonal Clerks and current employees are eligible to apply for a priority offer to commence as a Law Graduate. The firm runs its seasonal clerkship program annually, with applications opening in the first week of March.\n\n## CZ Legal\n\nBoutique Brisbane-based law firm specialising in plaintiff personal injury. The lawyers have many years of experience running matters in Queensland and Federal jurisdictions.\n\nCZ Legal takes a practical, personal, and compassionate approach. The lawyers understand the client as a person and assist them on a 'no win, no fee' basis. The team provides multilingual legal services that assist the diverse communities in Brisbane. The team works tirelessly to achieve the best possible outcome for their client. As licensed members of the Queensland Law Society, CZ Legal serves the public with fairness and professionalism.\n\nSee more here: https://www.czinjurylaw.com/contact-us\n\n## Shine Lawyers\n\nFounded more than 40 years ago in Toowoomba, by a lawyer who wanted to do things differently and believed in always putting his clients first. They're a firm specialising in personal injury compensation law, operating on a no win no fee basis. The firm has expanded into providing professional negligence, coal seam gas, and aviation law legal services through a number of acquisitions. However, they are primarily renowned for being a leading firm in motor vehicle accident compensation and work injury compensation. Shine Lawyers also has many offices in regional and rural Australia. For those interested in undertaking personal injury work in a rural area, Shine Lawyers may be the firm for you.\n\nSee more about careers here: https://www.shine.com.au/careers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

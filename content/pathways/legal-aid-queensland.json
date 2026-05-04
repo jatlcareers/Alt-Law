@@ -1,0 +1,28 @@
+{
+  "slug": "legal-aid-queensland",
+  "name": "Legal Aid Queensland",
+  "iconName": "scale",
+  "status": "published",
+  "topLevelLinks": [
+    {
+      "label": "About Legal Aid Queensland",
+      "type": "modal",
+      "modalContent": "Legal Aid Queensland (LAQ) is a statutory authority established under the *Legal Aid Queensland Act 1997* providing legal assistance to financially disadvantaged people across Queensland. With over 600 staff and 14 offices, LAQ covers criminal, family, civil, discrimination, sexual harassment, employment, credit/debt, Mental Health Court, and domestic and family violence work. Duty lawyers operate in the Magistrates Court, Federal Circuit and Family Court, and Children's Court."
+    },
+    {
+      "label": "Current Vacancies",
+      "type": "external",
+      "href": "https://www.legalaid.qld.gov.au/About-us/Work-for-us"
+    },
+    {
+      "label": "Testimonials",
+      "type": "testimonials-modal"
+    }
+  ],
+  "sections": [],
+  "bodyContent": "## For Students\n\nLAQ has a Strategic Workforce Plan and a First Nations Strategy that guide its hiring. Graduate opportunities are advertised on SmartJobs and via the Work for Us portal. For first- and second-year students, LAQ regularly advertises Litigation Support Officer and Client Information Officer roles on SmartJobs.\n\nContact: BEL Student Employability Team. Follow LAQ on LinkedIn, Facebook, and Instagram for current openings.",
+  "relatedPathways": [
+    "criminal-law",
+    "family-law"
+  ]
+}

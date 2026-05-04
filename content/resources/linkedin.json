@@ -1,0 +1,57 @@
+{
+  "slug": "linkedin",
+  "category": "jatl-career-tips",
+  "title": "LinkedIn",
+  "status": "published",
+  "byJatl": true,
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "LinkedIn",
+      "body": "Engaging on LinkedIn offers significant benefits for Law students looking to build their professional identity and expand their networks. By actively participating on the platform, students can connect with practising lawyers, alumni, and potential employers, gaining valuable insights into career pathways and industry expectations. Additionally, sharing achievements, interests, and relevant content can help establish credibility and showcase a unique value proposition, making students more visible to recruiters and enhancing opportunities for internships and graduate roles.",
+      "links": [
+        {
+          "label": "Create a good LinkedIn profile",
+          "href": "https://www.linkedin.com/help/linkedin/answer/a554351"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "heading": "Follow",
+      "links": [
+        {
+          "label": "Queensland Law Society",
+          "href": "https://www.linkedin.com/company/queensland-law-society/"
+        },
+        {
+          "label": "UQ Justice and the Law Society",
+          "href": "https://www.linkedin.com/company/uq-justice-and-the-law-society/"
+        },
+        {
+          "label": "UQ Law School",
+          "href": "https://www.linkedin.com/company/uq-law-school/"
+        },
+        {
+          "label": "The College of Law",
+          "href": "https://www.linkedin.com/school/the-college-of-law-australia/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Who else to follow",
+      "body": "**People who do the work you'd be interested in doing some day.** Use keywords based on what you're interested in and do a little research based on subjects you've really enjoyed or think you might have an interest in to follow experts and other professionals in that area.\n\n**Organisations who do the work you are interested in,** including CLCs, government departments, international bodies and United Nations agencies, etc."
+    },
+    {
+      "type": "prose",
+      "heading": "Tip - Alumni search",
+      "variant": "callout-tip",
+      "body": "Have a look at the 'Alumni' section of both UQ and your high school (where applicable). In this section, you can search for people by title, keyword or company. Where you limit your search to 'legal', do some further digging to see if someone from your high school or from UQ is doing a legal job that aligns with your career aspirations, whether that be because of the organisation they work at, the achievements they've made in their career, or particular attributes about them that you identify with. From there, send an invitation with a drafted message showing your interest as a law student in following that part of their career, referencing that common element of education. Give it a try! If they respond and connect with you, you might even want to schedule an information interview either in person or on video call to hear about their experience and better understand what's right for you in building your career."
+    }
+  ],
+  "relatedResources": [
+    "information-interview-guide",
+    "personal-branding-and-networking-tips"
+  ]
+}

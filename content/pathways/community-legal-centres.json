@@ -1,0 +1,352 @@
+{
+  "slug": "community-legal-centres",
+  "name": "Community Legal Centres",
+  "iconName": "users-round",
+  "status": "published",
+  "introAbove": "Community legal centres (CLCs) are independent, community organisations providing equitable and accessible legal services. CLCs tend to service specific demographics or a particular area of law, such as family law, employment law, criminal law and environmental law. Services provided generally include free legal advice, referrals, representation, community legal education, and advocating for law reform.\n\nA range of different volunteering opportunities are available in CLCs across Brisbane and the wider Queensland area. The UQ Pro Bono Centre is an excellent starting point to engage with CLCs and offers a wide range of opportunities for students to participate in the delivery of pro bono legal services in Queensland. The Centre oversees the Law School's Clinical Legal Education Program, research support for pro bono activities, the Pro Bono roster and the Barrister's Assistance Team.\n\n**Reference links:**\n- [Community Legal Centres Queensland](http://communitylegalqld.org.au/)\n- [Community Legal Centres Australia](https://clcs.org.au/)",
+  "sections": [
+    {
+      "heading": "Brisbane-Based",
+      "displayMode": "cards",
+      "orgs": [
+        {
+          "slug": "atsils",
+          "name": "ATSILS - Aboriginal and Torres Strait Islander Legal Service",
+          "shortDescription": "Community-based legal service for Aboriginal and Torres Strait Islander peoples across Queensland.",
+          "pathways": [
+            "community-legal-centres",
+            "first-nations-law"
+          ],
+          "links": [],
+          "contact": {
+            "email": "careers@atsils.org.au",
+            "phone": "(07) 3025 3888"
+          },
+          "body": "ATSILS is a community-based public benevolent organisation, established to provide professional and culturally competent legal services for Aboriginal and Torres Strait Islander peoples throughout Queensland. ATSILS provides legal services in criminal, family, child protection and civil law matters (which include human rights, anti-discrimination and coronial enquiries).\n\n**For Students:**\nATSILS welcomes Queensland students currently undertaking a Law/Justice/Indigenous Studies/Advocacy degree (or combination thereof) for placements in their Brisbane or regional offices. Whilst there are no fees for an internship with ATSILS, strong cultural competence training is provided. Apply via the Student Placement Program: https://www.atsils.org.au/student-placements/\n\n**For Graduates:**\nGraduate vacancies at https://www.atsils.org.au/job-vacancies/ and via Seek. Address selection criteria + provide employment skills/history. Three-member panel interview (in-person or Skype for Business). Prefers 2+ years post-admission, but less is welcome. Advocacy and court experience (Duty Lawyer + hearings) advantageous. Number of positions depends on yearly funding."
+        },
+        {
+          "slug": "ada-law",
+          "name": "Aged and Disability Advocacy Law (ADA)",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "basic-rights-queensland",
+          "name": "Basic Rights Queensland",
+          "shortDescription": "Free legal services in social security, Centrelink and disability discrimination law.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "contact": {
+            "email": "brq@brq.org.au"
+          },
+          "body": "Basic Rights Queensland is a CLC providing free legal services in social security/Centrelink and disability discrimination law. They also provide community legal education and advocate for law reform.\n\n**For Students:**\nBasic Rights Qld runs two volunteer rosters per year - Jan to Jun (apps open November) and Jul to Dec (apps open May). Volunteers attend on a regular weekly basis under solicitor supervision. Available through LAWS5180 (Clinical Legal Education) at UQ. Direct email applications also accepted."
+        },
+        {
+          "slug": "bayside-community-legal-service",
+          "name": "Bayside Community Legal Service",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "caxton-legal-centre",
+          "name": "Caxton Legal Centre",
+          "shortDescription": "One of Queensland's longest-running CLCs - criminal law, social justice, family, civil, human rights and elder law.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "Caxton Legal Centre is one of Queensland's longest-running CLCs, providing free legal advice and representation in criminal law, social justice law, family and civil law, human rights and elder law.\n\n**Three volunteer pathway types:**\n\n1. **Front Office Student Volunteers** - 4-hour weekly shift across the semester. Front-of-house, intake, and administrative support.\n2. **Clinical Legal Education** - LAWS5180 Consumer Law Clinic at UQ.\n3. **Volunteer Projects** - accessed via the UQ Pro Bono roster."
+        },
+        {
+          "slug": "edo",
+          "name": "Environmental Defenders Office (EDO)",
+          "shortDescription": "Public-interest environmental and planning law CLC.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "EDO is a community legal centre specialising in public-interest environmental and planning law. They support communities advocating for environmental justice and law reform.\n\n**For Students:**\nStrong preference for students focused on environment, planning, or administrative law. Six-month application window. UQ students can access EDO via LAWS5180 Environmental Law Clinic."
+        },
+        {
+          "slug": "hub-community-legal",
+          "name": "HUB Community Legal",
+          "shortDescription": "Free legal advice and assistance across family, civil, criminal and consumer law.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "HUB Community Legal provides free legal advice and assistance across a wide range of areas including family, civil, criminal, and consumer law.\n\n**For Students:**\nTwo annual application windows: January and July. Applications submitted via the HUB website."
+        },
+        {
+          "slug": "knowmore",
+          "name": "Knowmore",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "lawright",
+          "name": "LawRight",
+          "shortDescription": "Coordinates pro bono civil legal services for vulnerable people in Queensland.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "contact": {
+            "email": "admin@lawright.org.au"
+          },
+          "body": "LawRight is a non-profit, community-based legal centre coordinating pro bono civil legal services for vulnerable people in Queensland.\n\n**Volunteer pathways:**\n\n- **Community & Health Justice Partnerships clinic** - embedded legal services in healthcare settings.\n- **Mater Health clinic** - partnership-based legal support.\n- **General volunteering** - apply via admin@lawright.org.au."
+        },
+        {
+          "slug": "lgbti-legal-service",
+          "name": "LGBTI Legal Service",
+          "shortDescription": "Free, confidential legal advice for LGBTIQ+ people in Queensland.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "contact": {
+            "email": "mail@lgbtilegalservice.org"
+          },
+          "body": "The LGBTI Legal Service provides free, confidential legal advice and referrals for LGBTIQ+ people in Queensland. Practice areas include discrimination, family, criminal, and human rights law."
+        },
+        {
+          "slug": "northside-connect",
+          "name": "Northside Connect",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "prisoners-legal-service",
+          "name": "Prisoners' Legal Service (PLS)",
+          "shortDescription": "Free legal advice and representation for prisoners in Queensland.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "contact": {
+            "email": "pls@plsqld.com"
+          },
+          "body": "PLS provides free legal advice and representation for prisoners in Queensland. Practice areas include parole, prison conditions, disciplinary breaches, and human rights.\n\n**Three student pathways:**\n\n- **UQ Prison Law Clinic** - LAWS5180.\n- **Mail Clinic** - written legal correspondence with prisoners.\n- **Community Call Back** - telephone-based legal advice."
+        },
+        {
+          "slug": "qai",
+          "name": "Queensland Advocacy for Inclusion (QAI)",
+          "shortDescription": "Independent advocacy and legal organisation for people with disability in Queensland.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "QAI is an independent, community-based advocacy and legal organisation for people with disability in Queensland.\n\n**For Students:**\nVolunteer via UQ Pro Bono Centre placement OR independently. Ten-day commitment minimum. Apply 2 to 4 weeks before semester start or end of semester. Use the subject line \"Application to volunteer at QAI\" when applying directly."
+        },
+        {
+          "slug": "rails",
+          "name": "Refugee and Immigration Legal Service (RAILS)",
+          "shortDescription": "Free legal advice and representation to refugees, asylum seekers, and migrants.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "RAILS provides free legal advice and representation to refugees, asylum seekers, and migrants in Queensland.\n\n**For Students:**\n\n- **UQ Refugee and Immigration Law Clinic** (LAWS5180).\n- **Day volunteer requirements:** 3rd year+, CV/cover letter/transcript. Three intakes per year (Feb / Jun-Jul / Nov). Commitment is 1 day/week for 3 months."
+        },
+        {
+          "slug": "sisters-inside",
+          "name": "Sisters Inside Inc.",
+          "shortDescription": "Independent advocacy for the human rights of women and girls in the criminal justice system.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "Sisters Inside is an independent community organisation advocating for the human rights of women and girls in the criminal justice system.\n\n**Pathways:**\n\n- Apply via the Sisters Inside website.\n- Apply via UQ Pro Bono Centre.\n- **Dual-degree graduate pathways:** Children's Violence Prevention Worker, Youth Violence Prevention Worker, Policy Officer."
+        },
+        {
+          "slug": "tenants-queensland",
+          "name": "Tenants Queensland",
+          "shortDescription": "Queensland's specialist tenants' advice and advocacy service.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "contact": {
+            "website": "https://tenantsqld.org.au/category/careers/",
+            "email": "volunteer@tenantsqld.org.au"
+          },
+          "body": "Tenants Queensland is the state's specialist tenants' advice and advocacy service.\n\n**For Students:**\n\n- LAWS5180 access at UQ.\n- Volunteer applications via the careers page or volunteer email."
+        },
+        {
+          "slug": "wlsq",
+          "name": "Women's Legal Service (WLSQ)",
+          "shortDescription": "Free legal services for women across Queensland: family law, domestic violence, discrimination.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "contact": {
+            "email": "volunteers@wlsq.org.au"
+          },
+          "body": "WLSQ provides free legal services to women across Queensland, with a particular focus on family law, domestic violence, and discrimination.\n\n**Important:** WLSQ is a women's-only space. Client-facing roles are reserved for female-identifying staff and volunteers."
+        },
+        {
+          "slug": "yfs-legal",
+          "name": "YFS Legal",
+          "shortDescription": "Community-based legal service operating in Logan and surrounding region.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "YFS Legal is a community-based legal service operating in Logan and the surrounding region.\n\n**Two clinic pathways at UQ:**\n\n- **Generalist Legal Task Clinic** (UQ Pro Bono).\n- **Culturally Safe criminal law practice clinic** (LAWS5180)."
+        },
+        {
+          "slug": "youth-advocacy-centre",
+          "name": "Youth Advocacy Centre",
+          "shortDescription": "Free legal and social work services for young people aged 10 to 18 in Queensland.",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": [],
+          "contact": {
+            "email": "admin@yac.net.au"
+          },
+          "body": "The Youth Advocacy Centre (YAC) provides free legal and social work services for young people aged 10 to 18 in Queensland.\n\n**Application:** cover letter + resume to admin@yac.net.au."
+        }
+      ],
+      "showTestimonialsButton": false
+    },
+    {
+      "heading": "Other Queensland",
+      "displayMode": "cards",
+      "orgs": [
+        {
+          "slug": "aboriginal-torres-strait-islander-women-s-legal-services-north-queensland",
+          "name": "Aboriginal & Torres Strait Islander Women's Legal Services North Queensland",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "aboriginal-family-legal-services-queensland-maruma-li-mari",
+          "name": "Aboriginal Family Legal Services Queensland (Maruma-li-mari)",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "cairns-community-legal-centre",
+          "name": "Cairns Community Legal Centre",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "central-queensland-community-legal-centre-rockhampton",
+          "name": "Central Queensland Community Legal Centre (Rockhampton)",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "gold-coast-community-legal-centre-advice-bureau",
+          "name": "Gold Coast Community Legal Centre & Advice Bureau",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "institute-for-urban-indigenous-health-legal-service",
+          "name": "Institute for Urban Indigenous Health (Legal Service)",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "junkuri-laka-community-legal-centre-aboriginal-corporation-mornington-island",
+          "name": "Junkuri Laka Community Legal Centre Aboriginal Corporation (Mornington Island)",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "pine-rivers-community-legal-service",
+          "name": "Pine Rivers Community Legal Service",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "mackay-regional-community-legal-centre",
+          "name": "Mackay Regional Community Legal Centre",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "my-community-legal-gold-coast",
+          "name": "My Community Legal Gold Coast",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "queensland-indigenous-family-violence-legal-service",
+          "name": "Queensland Indigenous Family Violence Legal Service",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "suncoast-community-legal-service",
+          "name": "Suncoast Community Legal Service",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "tasc-community-legal-centre-toowoomba",
+          "name": "TASC Community Legal Centre (Toowoomba)",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "townsville-community-legal-service",
+          "name": "Townsville Community Legal Service",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        },
+        {
+          "slug": "wide-bay-burnett-community-legal-service",
+          "name": "Wide Bay Burnett Community Legal Service",
+          "pathways": [
+            "community-legal-centres"
+          ],
+          "links": []
+        }
+      ],
+      "showTestimonialsButton": false
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "criminal-law",
+  "name": "Criminal Law",
+  "iconName": "shield",
+  "status": "published",
+  "topLevelLinks": [
+    {
+      "label": "Testimonials",
+      "type": "testimonials-modal"
+    }
+  ],
+  "introAbove": "Criminal law sits at the heart of justice - it's where law meets human lives at their most vulnerable and consequential. For law students drawn to purposeful, people-centred work, few areas of practice are more directly meaningful.\n\nCareer paths in criminal law reflect a spectrum of values. If you're motivated by advocacy and access to justice, working as a defence lawyer - in private practice or through Legal Aid Queensland - means ensuring every person, regardless of background, receives fair representation. If fairness means accountability, a career as a prosecutor with the Office of the Director of Public Prosecutions (DPP) puts you at the front line of upholding community standards. Those driven by systemic change may find their place in policy roles within the Queensland Department of Justice, or in reform-focused organisations like the Queensland Law Reform Commission.\n\nFor students with a global outlook, international criminal law - practised through institutions like the ICC or UN tribunals - offers the opportunity to address the gravest crimes on the world stage.",
+  "sections": [
+    {
+      "heading": "Areas of Practising Criminal Law",
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "government",
+          "name": "Government",
+          "pathways": [
+            "criminal-law"
+          ],
+          "links": [
+            {
+              "label": "Government",
+              "type": "modal",
+              "modalContent": "**The Office of the Commonwealth Director of Public Prosecutions (CDPP)**\n\nThe Office of the Commonwealth Director of Public Prosecutions (CDPP) is an independent prosecution service established by Commonwealth Parliament to prosecute alleged offences against Commonwealth law. The CDPP plays a critical role in our criminal justice system by prosecuting crimes against Commonwealth laws, from online child exploitation through to counter-terrorism and war crimes.\n\nInfo: https://www.cdpp.gov.au/careers · Phone: 02 6206 5666 · Email: recruitment@cdpp.gov.au\n\n**The Office of the Director of Public Prosecutions (ODPP)**\n\nThe Office of the Director of Public Prosecutions prosecutes criminal matters for the state of Queensland. If you're interested in working as a criminal barrister or in the criminal field generally, the ODPP offers a Work Experience Placement Program (WEPP) throughout the year and in a number of locations across Queensland. Applications should be made directly to the TC Beirne School of Law.\n\nInfo: https://law.uq.edu.au/current-students/careersoverseas/work/odpp"
+            }
+          ]
+        },
+        {
+          "slug": "private-practice",
+          "name": "Private Practice",
+          "pathways": [
+            "criminal-law"
+          ],
+          "links": [
+            {
+              "label": "Private Practice",
+              "type": "modal",
+              "modalContent": "**Criminal Defence (intro)**\n\nIf you have an interest in criminal defence and wish to gain experience in the area, reach out to criminal defence firms and request work experience or job opportunities as a clerk. Some firms offer a Summer Clerkship Program, but these opportunities are rare. Such roles often involve appearing in court for mentions, allowing you to interact with the courts at an early stage in your law career. Making contacts in this manner is important for criminal defence, and firms are ordinarily open to taking on work experience and PLT students. Many criminal defence firms also provide services in relation to employment law, traffic law and domestic violence. Further, closely linked to criminal law matters is human rights law, and with the *Human Rights Act 2019* (Qld), the intersection between these areas is an interesting space to watch.\n\n**Firms include:**\n\n**Gilshenan & Luton Lawyers**\n\nTop-tier criminal law firm that commenced in 1924. They defend criminal charges across the entire range of offences - from straightforward matters such as minor assaults and drug possession to the most complex cases of homicide, financial crime and large-scale drug matters.\n\n**Fisher Dore Lawyers**\n\nLeading criminal law firm in Queensland with offices in Brisbane, Beenleigh, Rockhampton, Bundaberg, Mackay and Maroochydore. With 45 combined years of experience between their two accredited criminal law specialists and 154 appeals in 13 years, they are recognised as first tier in the *Doyle's Guide*. They represent clients in a wide range of criminal law matters, including drug charges, cyber and computer crime, professional misconduct, human rights and migration.\n\n**Robertson O'Gorman Solicitors**\n\nLeading criminal law firm in Queensland recognised consistently as first-tier by the *Doyle's Guide*. They specialise in criminal law but have significant experience in other fields, including employment law and traffic law. With more than 40 years of experience, they have represented clients in the High Court of Australia on numerous occasions."
+            }
+          ]
+        }
+      ],
+      "showTestimonialsButton": false
+    }
+  ],
+  "relatedPathways": [
+    "legal-aid-queensland",
+    "government-and-public-service",
+    "international-law"
+  ]
+}

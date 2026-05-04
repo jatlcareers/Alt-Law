@@ -1,0 +1,155 @@
+{
+  "slug": "job-search",
+  "category": "resources-and-guides",
+  "title": "Job Search",
+  "status": "published",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Job Boards",
+      "body": "As you transition from university to your career, exploring graduate employment options is crucial. These roles are tailored for recent graduates and are available through a range of organisations - including government bodies, private enterprises, and non-profit groups - that aim to empower newcomers in their professional lives.\n\nGraduate jobs typically provide structured training, mentoring, and ongoing support, enabling you to apply your academic knowledge in real-world settings. They offer a valuable starting point for a lasting career, helping you gain practical industry experience, build your network, and make impactful contributions within your chosen area.\n\n*Remember: set up job alerts with these websites through your email to not miss out on opportunities suited to you!*"
+    },
+    {
+      "type": "links",
+      "heading": "Internships, graduate programs and graduate jobs",
+      "links": [
+        {
+          "label": "Seek Graduate Jobs",
+          "href": "https://www.seek.com.au/graduate-jobs"
+        },
+        {
+          "label": "Prosple",
+          "href": "https://au.prosple.com/search-jobs?study_fields=655&keywords&defaults_applied=1&location=Australia",
+          "description": "Early-careers job board; graduate programs and jobs with government and private organisations."
+        },
+        {
+          "label": "Indeed Graduate Jobs",
+          "href": "https://au.indeed.com/q-graduate-jobs.html"
+        },
+        {
+          "label": "QLD Government Graduate Portal",
+          "href": "https://www.qld.gov.au/jobs/graduate-portal/graduate-programs"
+        },
+        {
+          "label": "Australian Government Graduate Program",
+          "href": "https://www.naa.gov.au/about-us/employment/entry-level-programs/australian-government-graduate-program"
+        },
+        {
+          "label": "Australian Public Service graduate and entry level programs",
+          "href": "https://www.apsc.gov.au/about-us/working-commission/apsc-graduate-opportunities"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "heading": "General Job Search",
+      "links": [
+        {
+          "label": "SEEK",
+          "href": "https://www.seek.com.au/"
+        },
+        {
+          "label": "CareerOne",
+          "href": "https://www.careerone.com.au/"
+        },
+        {
+          "label": "Jora",
+          "href": "https://au.jora.com/"
+        },
+        {
+          "label": "Indeed",
+          "href": "https://au.indeed.com/"
+        },
+        {
+          "label": "Workforce Australia",
+          "href": "https://www.workforceaustralia.gov.au/individuals/"
+        },
+        {
+          "label": "Australian Public Service Jobs",
+          "href": "https://www.apsjobs.gov.au/s/"
+        },
+        {
+          "label": "SmartJobs",
+          "href": "https://smartjobs.qld.gov.au/",
+          "description": "Queensland Government jobs."
+        },
+        {
+          "label": "LinkedIn Job Search",
+          "href": "https://www.linkedin.com/jobs/search/"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "heading": "Law Specific",
+      "links": [
+        {
+          "label": "The College of Law Jobs Board",
+          "href": "https://jobs.collaw.com/",
+          "description": "Sponsor."
+        },
+        {
+          "label": "EthicalJobs",
+          "href": "https://www.ethicaljobs.com.au/jobs?locations=5%2C6&categories=35",
+          "description": "Careers in social-justice / social-equity / environmental sustainability orgs."
+        },
+        {
+          "label": "Legal Careers",
+          "href": "https://www.legalcareers.com.au/"
+        },
+        {
+          "label": "Law Staff",
+          "href": "https://www.lawstaff.com.au/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "UQ student-only resources",
+      "body": "All UQ students can access job listings, advice and services:",
+      "links": [
+        {
+          "label": "UQ Career Hub",
+          "href": "https://studenthub.uq.edu.au/students/login",
+          "meta": "Login required",
+          "description": "Job vacancies from employers, locally and internationally."
+        },
+        {
+          "label": "UQ Union job preparation service",
+          "href": "https://www.uqu.com.au/student-support/job-preparation",
+          "description": "Helps students find and apply for casual jobs."
+        },
+        {
+          "label": "UQ's Careers and Employability office",
+          "href": "https://study.uq.edu.au/enhance-your-employability",
+          "description": "Job searching, networking, and application writing."
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "heading": "Career advice",
+      "intro": "*Both Prosple and EthicalJobs feature pages dedicated to career advice and help with your job application. Please also have a look at these pages to learn more and evaluate your resources:*",
+      "links": [
+        {
+          "label": "Prosple - Graduate Law Careers Advice",
+          "href": "https://au.prosple.com/law"
+        },
+        {
+          "label": "Prosple - Community Forum",
+          "href": "https://forum.prosple.com/categories",
+          "expandable": "Review FAQs or ask a question about internships or graduate roles and get honest advice from grads, peers and employers."
+        },
+        {
+          "label": "EthicalJobs - Career Advice",
+          "href": "https://www.ethicaljobs.com.au/blog",
+          "expandable": "Not only features materials on searching for a job and workplace wellbeing and development, but also offers more niche advice catered to values-based careers and organisations, such as volunteering opportunities and job trends in sustainable industries/workplaces."
+        }
+      ]
+    }
+  ],
+  "relatedResources": [
+    "external-resources",
+    "career-support"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "in-house-law",
+  "name": "In-House Law",
+  "iconName": "building-2",
+  "status": "published",
+  "sections": [
+    {
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "in-house-edu",
+          "name": "Further Educational Opportunities",
+          "pathways": [
+            "in-house-law"
+          ],
+          "links": [
+            {
+              "label": "Further Educational Opportunities",
+              "type": "resource-modal",
+              "modalContent": "The College of Law offers a Master of Laws (Applied Law), through which you may specialise in In-House Practice. The courses deal with the commercial aspects of being an in-house lawyer and include areas such as dispute and project management.\n\nMore information: https://www.collaw.edu.au/campaigns/PG/in-house-practice-postgraduate-programs-course-guide/"
+            }
+          ]
+        },
+        {
+          "slug": "mel-storey",
+          "name": "At Home in House",
+          "pathways": [
+            "in-house-law"
+          ],
+          "links": [
+            {
+              "label": "At Home in House (Mel Storey)",
+              "type": "resource-modal",
+              "modalContent": "When I first decided to pursue a career in law, I wasn't exactly plotting a grand entrance into the in-house legal world. I didn't even know what \"in-house\" meant! I just loved the intellectual challenge, the idea of solving complex puzzles (and frankly, the dramahhh), so law school felt like the natural fit. I figured I would sort the rest out later. Fast-forward a few years and there I was, working in 'Big Law'. The suits, the billable hours, the constant emails (so many emails!) - it wasn't as glamorous as TV dramas make it look.\n\nI realised my passion for law needed more than just isolated contract reviews without a lot of context, multiple layers between me and the client, or endless hours of due diligence.\n\nI wanted to use my legal skills to actually move the needle, to shape strategy, and yes, sometimes even throw in a little personality and humour when I could.\n\nThat's when I found my sweet spot - working as an in-house lawyer. In-house suits my personality and learning style perfectly. I thrive in environments where I can mix legal expertise with business strategy. I'm not just looking at the legal implications of a decision, I'm asking how it fits into the bigger picture. I'm working with stakeholders from all across the business and am surrounded by lots of different professionals - not just lawyers.\n\nI can make a difference by providing practical solutions, not just black-and-white legal advice. I've always believed that lawyers can be problem-solvers and not just rule-keepers. Working in-house allows me to do exactly that. My advice to aspiring in-house lawyers: take the initiative. Internships, networking, finding mentors - these are your best bets to break into the world of in-house law. Extra study is an option too to show your commitment to this style of practice. It's not for everyone. In-house legal leaders don't just want someone running away from the intensity of billable-hour life in private practice; they want someone genuinely interested in the business and the industry.\n\nThroughout my career, I've had opportunities I never imagined, from working with international teams, travelling all over the world, to launching \"The Counsel Podcast\" (and an adjacent personal brand online) where I get to interview brilliant in-house lawyers and share their stories with the world.\n\nMy podcast passion project has been incredibly rewarding, giving me a platform to demystify what it's like to be an in-house lawyer and offering advice for those looking to follow the same path. I always want to provide the resources I wish I had available to me when I was earlier in my career.\n\n**What's required to join the in-house world?**\n\nA solid legal background is a must, but beyond that, you need to be adaptable, business-savvy, and excellent at communicating with all levels of a company and external stakeholders. The ability to understand the \"business speak\" alongside the legal jargon is key to thriving here. You also have to be comfortable with ambiguity - sometimes, there's no textbook answer and your business stakeholders may look to you for your best advice on the facts, or your 'gut feel' based on experience and pattern recognition of what can go wrong but also, how to mitigate the risk.\n\n**The most rewarding aspect of working in-house?**\n\nSeeing how my legal advice helps shape a company's decisions. I'm not just reacting, I'm actively contributing to the direction of the business. And the cherry on top? I get to do all of this without clocking a single billable unit. ALL of my time at work is considered to be \"billable\".\n\n**One misconception I encounter frequently?**\n\nOmg. Heaps!!! That in-house lawyers are just \"the department of no\". We're not here to shut things down, we're here to enable progress while keeping things on track. We offer practical solutions, not just \"no's.\"\n\nFor any law students still figuring out their path, my advice is simple: try different things.\n\nPractice in various areas of law (I always say that no experience is ever wasted and you won't pigeon-hole yourself in early, I promise!), ask LOTS of questions, and don't be afraid to take the road less travelled. Your journey doesn't have to be linear, and the legal world has more options than you probably have been led to think thanks to TV dramas and slick big law firm advertising on campus.\n\nIn-house law is challenging, dynamic, and incredibly rewarding. If you're up for the adventure and 'knowing a little bit about a lot', it might just be the perfect fit for you. Try it and see (you can always go back to conventional private practice - but you probably won't ;)).\n\nPlease see more of Mel's excellent content here: https://linktr.ee/theinhouselawyer",
+              "byline": "By Mel Storey"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bodyContent": "## What is an In-House Lawyer?\n\nMany organisations will employ legal counsel to work solely for the firm. The type of work will vary depending on the nature of the organisation, but can include contract law, company secretarial work, regulatory approval and compliance, banking and securities law, protection of intellectual property, employment law, or consumer law.\n\nThe experience of working in-house is one that is entirely distinct from working within a law firm. In-house practitioners often benefit from flexible working hours, an opportunity to participate in business decision making, an absence of billable quotas and a favourable work-life balance.\n\nIn addition, research by the Australian Corporate Lawyers Association has shown that 80% of in-house lawyers receive value-added benefits: 57% receive a bonus, 22% receive superannuation greater than the employer compulsory contribution, and 3% receive fringe benefits tax benefits associated with working for a charity.\n\n## Pathways to In-House Legal Work\n\nGenerally, lawyers who work in-house are already qualified to practise as solicitors and have extensive industry experience. In-house solicitors often start out in a law firm doing corporate and commercial legal work, before moving to an internal legal team. Many law firms also provide experienced legal counsel and provide graduates with opportunities to undertake secondments within in-house teams. Although many organisations have in-house legal departments, very few offer graduate-level positions. Employment positions are generally advertised on the organisation's website and secondments are usually arranged internally.\n\n## Who represents In-House Lawyers?\n\nThe Association of Corporate Counsel Australia ('ACCA') is the peak body for in-house lawyers. They host events, conferences, training workshops, and even have a yearly mentoring programme, which pairs less experienced in-house lawyers with mentors from a different industry sector. More information: http://acla.acc.com/"
+}

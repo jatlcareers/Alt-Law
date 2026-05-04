@@ -1,0 +1,98 @@
+{
+  "slug": "preparing-for-applications",
+  "category": "networking-interviews-recruitment",
+  "title": "Preparing for Applications",
+  "status": "published",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Understand",
+      "body": "Written applications may encompass a range of different stages and documents including cover letters, resumes and selection criteria.\n\nUnderstanding the purpose and strategies behind a successful application is a valuable capability to develop as it will support you well into your career. Whether you have never written a professional application before or you are looking to make final adjustments to your tailored application, support is available on your journey. These resources will help you to be better equipped to communicate your strengths and meet the expectations of potential employers.",
+      "links": [
+        {
+          "label": "UQ Career Development Workshops and Events",
+          "href": "https://employability.uq.edu.au/career-development/events"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Prepare",
+      "body": "Are you preparing your written application or preparing for your interview? One of the key places to start is reflecting on your academic pathway, employment history and broader experiences and then considering how to articulate your competencies. Unpacking and articulating your experiences is essential to show your value to prospective employers.",
+      "links": [
+        {
+          "label": "Unpacking and articulating your experiences",
+          "href": "https://employability.uq.edu.au/files/186260/SES%20-%20Careers%20-%20Articulating%20Your%20Experiences%20-%202025.pdf",
+          "meta": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "STAR (Situation-Task-Action-Result)",
+      "body": "The STAR method is a structured manner of responding to selection criteria as well as 'behavioural-based' or 'competency-focused' interview questions. The STAR Template will walk you through the steps of unpacking your experiences and effectively hone your skill using the STAR approach.",
+      "links": [
+        {
+          "label": "STAR Template",
+          "href": "https://employability.uq.edu.au/files/200784/STAR%20template.pdf",
+          "meta": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "SEAL (Situation-Experience-Action-Learning)",
+      "body": "Similar to STAR, SEAL assists students to articulate what you have learnt from an experience.",
+      "links": [
+        {
+          "label": "SEAL Reflection Method template",
+          "href": "https://employability.uq.edu.au/files/179389/SEED-Careers-SEAL2022.pdf",
+          "meta": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Unpacking the role",
+      "body": "Jobs can be complicated when they are broken down from their title into individual roles and responsibilities. Unpacking the role is a strategic approach that helps you:\n\n- Filter out roles you don't want to apply for\n- Research the role and organisation\n- Identify key words and ideas for your application",
+      "links": [
+        {
+          "label": "Unpacking the role",
+          "href": "https://employability.uq.edu.au/files/207959/SES%20-%20Careers%20-%20Unpack%20the%20Role%20-%202025.pdf",
+          "meta": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "EMPLOY101x",
+      "body": "EMPLOY101x \"Unlocking your employability\" is a self-paced, online course based on UQ's approach to student employability development. The course provides strategies and techniques to help you to learn from your experiences, identify your unique capabilities and attributes, and effectively communicate your employability in different contexts, such as in the recruitment process and through pitching.\n\nWith examples from different industries and environments, and contributions from employers, entrepreneurs, students, graduates and experts, this course will help prepare you to navigate the unpredictability of the world of work, both now and throughout your career.\n\nUQ students can access the full and free version of the course by using their UQ student email to register and enrol and using the voucher code: **E21U49M2B38SBV4N**. Instructions at the link below will step you through registration in the course.\n\nIf you have any questions regarding accessing the verified version of the course contact employ@uq.edu.au.",
+      "links": [
+        {
+          "label": "EMPLOY101x \"Unlocking your employability\"",
+          "href": "https://www.edx.org/course/unlocking-employability-uqx-employ101x-0"
+        },
+        {
+          "label": "UQ enrolment instructions",
+          "href": "https://learn.uq.edu.au/ultra/courses/_185094_1/cl/outline"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Employability Award",
+      "body": "The Employability Award program is a structured program that recognises the personal and professional development you can gain from your involvement in activities above and beyond your academic studies. It is essentially a learning program that will guide you through a range of experiences and reflections to unlock your potential.",
+      "links": [
+        {
+          "label": "Employability Award",
+          "href": "https://employability.uq.edu.au/award"
+        }
+      ]
+    }
+  ],
+  "relatedResources": [
+    "resumes",
+    "cover-letters",
+    "job-interviews"
+  ]
+}

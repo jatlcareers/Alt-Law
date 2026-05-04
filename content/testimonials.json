@@ -1,0 +1,75 @@
+[
+  {
+    "_comment": "This is the testimonials.json scaffold. The full file should contain ~85 entries. Schema reference at /src/lib/types.ts -> Testimonial. Each entry has: slug, name, role, organisation, year, pathways[], orgSlugs[] (optional, for CLC sub-grouping), body. Body is the long-form testimonial text - must be supplied; do not fabricate. The entries below are placeholders for the multi-pathway testimonials that need careful tagging."
+  },
+  {
+    "slug": "lauren-hannah",
+    "name": "Lauren Hannah",
+    "role": "Criminal Lawyer",
+    "organisation": "ATSILS",
+    "year": "",
+    "pathways": ["community-legal-centres", "first-nations-law"],
+    "orgSlugs": ["atsils"],
+    "body": ""
+  },
+  {
+    "slug": "kurt-maroske-tenants",
+    "name": "Kurt Maroske",
+    "role": "",
+    "organisation": "Tenants Queensland",
+    "year": "",
+    "pathways": ["community-legal-centres"],
+    "orgSlugs": ["tenants-queensland"],
+    "body": ""
+  },
+  {
+    "slug": "kurt-maroske-lgbti",
+    "name": "Kurt Maroske",
+    "role": "",
+    "organisation": "LGBTI Legal Service",
+    "year": "",
+    "pathways": ["community-legal-centres"],
+    "orgSlugs": ["lgbti-legal-service"],
+    "body": ""
+  },
+  {
+    "slug": "mitree-vongphakdi-pls",
+    "name": "Mitree Vongphakdi",
+    "role": "",
+    "organisation": "Prisoners' Legal Service",
+    "year": "",
+    "pathways": ["community-legal-centres"],
+    "orgSlugs": ["prisoners-legal-service"],
+    "body": ""
+  },
+  {
+    "slug": "mitree-vongphakdi-hub",
+    "name": "Mitree Vongphakdi",
+    "role": "",
+    "organisation": "HUB Community Legal",
+    "year": "",
+    "pathways": ["community-legal-centres"],
+    "orgSlugs": ["hub-community-legal"],
+    "body": ""
+  },
+  {
+    "slug": "cleo-shave-qai",
+    "name": "Cleo Shave",
+    "role": "",
+    "organisation": "Queensland Advocacy for Inclusion",
+    "year": "",
+    "pathways": ["community-legal-centres"],
+    "orgSlugs": ["qai"],
+    "body": ""
+  },
+  {
+    "slug": "cleo-shave-rails",
+    "name": "Cleo Shave",
+    "role": "",
+    "organisation": "Refugee and Immigration Legal Service",
+    "year": "",
+    "pathways": ["community-legal-centres"],
+    "orgSlugs": ["rails"],
+    "body": ""
+  }
+]

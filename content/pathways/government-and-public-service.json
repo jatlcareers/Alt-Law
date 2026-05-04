@@ -1,0 +1,181 @@
+{
+  "slug": "government-and-public-service",
+  "name": "Government & Public Service",
+  "iconName": "landmark",
+  "status": "published",
+  "introAbove": "Whether you work within a department or statutory body, your role would ultimately involve promoting and safeguarding the interests of the wider Queensland or Australian community.\n\nWorking within the public service or government sector offers numerous advantages: there is enormous variety in the roles available, and just being in a diverse environment opens your eyes to career options you might never have considered; secondments create lots of opportunities to develop your skills and there is astonishing mobility within the sector; and greater opportunities for work-life balance (flex time, compressed hours, part-time work, 48/52 or recreation leave at half pay, etc.). Although still subject to operational convenience, they are better than you could negotiate in most private firms.\n\nLegal skills are valuable in the public sector, in legal, policy and program roles. While both the Queensland and federal public sectors offer graduate programs, there are still several ways of 'getting a foot in the door'. If you accept an entry level role, there are frequent opportunities for advancement within and across departments.",
+  "sections": [
+    {
+      "heading": "Federal",
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "ag-dept",
+          "name": "Attorney General's Department",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Attorney General's Department",
+              "type": "modal",
+              "modalContent": "Responsibilities span rule of law, national security, emergency management, families and marriage, rights, legal systems, crime and corruption, and international relations. The Australian Government Solicitor (AGS) provides legal services to the Commonwealth.\n\n12-month graduate program (policy or legal practice stream). Applications open in March. https://www.ag.gov.au/about-us/careers/employment-programs · HR.Assist@ag.gov.au"
+            }
+          ]
+        },
+        {
+          "slug": "accc",
+          "name": "ACCC",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "ACCC",
+              "type": "modal",
+              "modalContent": "Enforces the *Competition and Consumer Act 2010*; promotes competition; consumer protection; regulates monopoly infrastructure.\n\nGraduate program. Applications open in March each year for the following February start. https://www.accc.gov.au/about-us/careers/graduate-opportunities · grad.jobs@accc.gov.au"
+            }
+          ]
+        },
+        {
+          "slug": "asic",
+          "name": "ASIC",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "ASIC",
+              "type": "modal",
+              "modalContent": "Australian corporate, markets, and financial services regulator.\n\n12-month graduate program with 4 x 4-month rotations across surveillance, investigations, intelligence, data analytics, and consumer research. Applications open in June. Recruitment includes video interview + psychometric testing. https://careers.asic.gov.au/Graduate-program.html · graduateprogram@asic.gov.au"
+            }
+          ]
+        },
+        {
+          "slug": "ato",
+          "name": "Australian Taxation Office",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Australian Taxation Office",
+              "type": "modal",
+              "modalContent": "Lawyer / Prosecution Officer / Litigator pathways, plus a paid university internship.\n\n[ATO careers - lawyers](https://www.ato.gov.au/about-ato/careers/specialist-careers/lawyers-prosecutors-and-litigators) · [University Partnership Employment Program](https://www.ato.gov.au/careers/graduate-and-entry-level-programs/university-partnership-employment-program)"
+            }
+          ]
+        },
+        {
+          "slug": "dfat",
+          "name": "Department of Foreign Affairs & Trade",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Department of Foreign Affairs & Trade",
+              "type": "modal",
+              "modalContent": "2-year graduate program (policy or corporate management streams). Applications open in February. Submission requires: 500-word response + 100-word outline + 2 referees + achievements + extracurriculars + work experience. https://www.dfat.gov.au/careers/dfat-aps-careers/graduate-program · gradrec@dfat.gov.au"
+            }
+          ]
+        },
+        {
+          "slug": "pmc",
+          "name": "Department of the Prime Minister & the Cabinet",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Department of the Prime Minister & the Cabinet",
+              "type": "modal",
+              "modalContent": "12-month graduate program based in Canberra with regional rotations. Streams: generalist, Indigenous Affairs, or Corporate and Government. Applications close end of April. https://www.pmc.gov.au/join-us/entry-level-programs/graduate-program · EntryLevelPrograms@pmc.gov.au"
+            }
+          ]
+        },
+        {
+          "slug": "treasury-fed",
+          "name": "Treasury (Federal)",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Treasury (Federal)",
+              "type": "modal",
+              "modalContent": "Provides advice, analysis, and legislation across macro to microeconomic policy - fiscal, foreign investment, tax, financial services, social, and international economic.\n\n2-year Canberra-based graduate program with 2 x 1-year rotations. Applications open in March. https://graduates.treasury.gov.au/ · graduateprogram@treasury.gov.au"
+            }
+          ]
+        }
+      ],
+      "testimonialsScope": "Federal Government"
+    },
+    {
+      "heading": "Queensland",
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "lsc-qld",
+          "name": "Legal Services Commission (Qld)",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Legal Services Commission (Qld)",
+              "type": "modal",
+              "modalContent": "Independent government body regulating the legal profession in Queensland. Investigates complaints. Together with the Bar Association of Queensland and Queensland Law Society, the LSC is the sole authority empowered to prosecute legal practitioners. lsc@lsc.qld.gov.au"
+            }
+          ]
+        },
+        {
+          "slug": "future-leaders",
+          "name": "Future Leaders Graduate Program",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Future Leaders Graduate Program",
+              "type": "modal",
+              "modalContent": "Queensland Government's flagship 2-year program. Sector-wide rotations. Applications open in March and close in April of the year prior. https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/future-leaders-graduate-program\n\n*(Note: an earlier version of the source called this \"Policy Futures Graduate Program\" - Future Leaders is the current canonical name.)*"
+            }
+          ]
+        },
+        {
+          "slug": "qld-doj",
+          "name": "Queensland Department of Justice",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Queensland Department of Justice",
+              "type": "modal",
+              "modalContent": "Flagship Law and Justice Graduate Program - 2-year program, open to Law / Criminology / Social Work / Policy / Psychology / related degrees. Focus areas: justice reform, community safety, fair services. https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/law-justice"
+            }
+          ]
+        },
+        {
+          "slug": "qld-treasury",
+          "name": "Queensland Treasury",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Queensland Treasury",
+              "type": "modal",
+              "modalContent": "State finances and economy expert. Variety of project-based roles. https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/treasury-gradstart · gradprog@treasury.qld.gov.au"
+            }
+          ]
+        }
+      ],
+      "testimonialsScope": "Queensland Government"
+    }
+  ],
+  "relatedPathways": [
+    "criminal-law",
+    "international-law"
+  ]
+}

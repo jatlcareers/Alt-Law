@@ -1,0 +1,52 @@
+{
+  "slug": "first-nations-law",
+  "name": "First Nations' Law",
+  "iconName": "leaf",
+  "status": "published",
+  "introAbove": "The following workplaces provide law students and graduates with excellent opportunities to assist Australia's First Nations people:",
+  "topLevelLinks": [
+    {
+      "label": "Testimonials",
+      "type": "testimonials-modal"
+    }
+  ],
+  "sections": [
+    {
+      "displayMode": "table",
+      "orgs": [
+        {
+          "slug": "aurora-project",
+          "name": "The Aurora Project",
+          "pathways": [
+            "first-nations-law"
+          ],
+          "links": [],
+          "body": "The Aurora Education Foundation internship program welcomes Indigenous and non-Indigenous students from law, social science, and health. Native title, land rights, policy, research, and social justice. Host organisations include Native Title Representative Bodies and Prescribed Body Corporates Australia-wide.\n\n4 to 6 weeks unpaid full-time (part-time negotiable). Alumni network; sometimes leads to paid employment.\n\n**For Students:** Winter intake applications open in March; Summer intake in August. For law applicants: enrolled in or completed Property Law (incl. native title) - partial completion may still be eligible. Required: resume + transcript + 2 written references (1 professional, 1 academic) + cover letter (cultural awareness emphasis).\n\nScholarships for Indigenous interns cover daily living + travel + accommodation. https://aurorafoundation.com.au/our-work/internship-program/"
+        },
+        {
+          "slug": "qsnts",
+          "name": "Queensland South Native Title Service (QSNTS)",
+          "pathways": [
+            "first-nations-law"
+          ],
+          "links": [],
+          "body": "Native Title Service Provider - government-funded delivery of legal advice to Traditional Owners on Native Title. Endeavours to secure self-determination, rights-based recognition, and fair agreements and compensation for First Nations People.\n\nInternships via Aurora and case-by-case applications. Position listings: https://qsnts.com.au/"
+        },
+        {
+          "slug": "atsils",
+          "name": "Aboriginal and Torres Strait Islander Legal Service (ATSILS)",
+          "pathways": [
+            "first-nations-law",
+            "community-legal-centres"
+          ],
+          "links": [],
+          "body": "*(Cross-referenced with [Community Legal Centres](/pathways/community-legal-centres/).)*\n\nATSILS welcomes Queensland students studying Law, Justice, Indigenous Studies, Advocacy, or a combination. Student Placement Program in Brisbane or regional offices: criminal, family, child protection, civil (incl. human rights, coronial enquiries). https://www.atsils.org.au/student-placements/\n\nNo internship fees, but strong cultural competence training is provided.\n\n**For graduates:** https://www.atsils.org.au/job-vacancies/ + Seek. Address selection criteria + employment skills/history. Three-member panel interview (in-person or Skype for Business). Prefers 2+ years post-admission, but less is welcome. Advocacy and court experience (Duty Lawyer + hearings) advantageous. Number of positions depends on yearly funding."
+        }
+      ],
+      "showTestimonialsButton": false
+    }
+  ],
+  "relatedPathways": [
+    "community-legal-centres"
+  ]
+}

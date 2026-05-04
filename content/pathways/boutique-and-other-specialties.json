@@ -1,0 +1,28 @@
+{
+  "slug": "boutique-and-other-specialties",
+  "name": "Boutique & Other Specialties",
+  "iconName": "gem",
+  "status": "published",
+  "introBelow": "The first point to remember about boutique firms is that the term \"boutique\" is not simply a euphemism for small. Rather, boutique law firms specialise in a niche area of law. Therefore, a boutique firm isn't about size; it's about specialisation. A boutique law firm can provide expert legal advice and services to individuals or businesses in one or a select few areas of the law. Although midsize and large law firms have structured themselves to offer a broad range of services, a growing number of lawyers are setting up these smaller practices, choosing to focus the work of the entire firm on one area of law.\n\nIt is important to note that boutique law firms generally do not have an official graduate program and offer legal positions within the firm on an intermittent basis. These positions will often be advertised on job search websites, university job boards and on the firm's website.",
+  "sections": [
+    {
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "boutique-orgs",
+          "name": "Organisations",
+          "pathways": [
+            "boutique-and-other-specialties"
+          ],
+          "links": [
+            {
+              "label": "Organisations",
+              "type": "modal",
+              "modalContent": "Some Brisbane boutique firms include:\n\n## Kindra Migration Lawyers\n\nAward-winning Australian immigration law firm, formerly known as WLW Migration Lawyers, which rebranded in November 2025. Founded in 2015 by Jessica Williamson, James Wardlaw, and Simon Leske, the firm has grown from a small practice into a national team with offices in Melbourne and Brisbane, covering skilled migration, employer-sponsored visas, partner and family visas, business visas, citizenship, and appeals. Their Bridge Project also provides pro bono migration assistance to those who cannot afford full representation.\n\nSee more about careers here: https://kindramigration.com.au/careers/\n\n## Griffith Hack Lawyers\n\nSpecialist intellectual property firm. The firm aims to provide a range of intellectual property services including analysing the existing IP landscape to inform strategic and innovation investment decisions, assisting clients to obtain the maximum research and development funding available as well as guiding the integration of IP strategy with business strategy.\n\nSee more careers information here: https://www.griffithhack.com/about-us/careers/\n\n## Leanne Bowie Lawyers\n\nBoutique Australian firm specialising in environmental, planning, and resumption law. The team at Leanne Bowie are experienced in complex resource-based projects, infrastructure projects, and a range of other development projects. Leanne Bowie Lawyers also provides policy and legislative advice.\n\nSee more careers information here: https://www.bowielaw.com.au/careers\n\n## Samuta McComber Lawyers\n\nMicro-firm that practices exclusively in migration law, specifically complex migration matters (including visa cancellations under section 501 and section 116 of the *Migration Act 1958*). It also assists with visa applications. Samuta McComber Lawyers regularly appears at the Administrative Appeals Tribunal (AAT) as advocates for applicants.\n\nSee more: https://samutamccomber.com.au/contact-us"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "career-mentoring",
+  "category": "jatl-career-tips",
+  "title": "Career Mentoring",
+  "status": "published",
+  "byJatl": true,
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Career mentoring",
+      "body": "Career mentoring is a one-to-one relationship in which an experienced professional voluntarily offers their knowledge, insight and encouragement to facilitate the learning and development of a current student. A good career mentoring relationship is professional and equal, recognising that both mentor and mentee can grow from the experience. A mentor does not guarantee success and will often play contradictory roles - sometimes offering advice and support, at other times posing challenging questions and sharing critical thoughts.",
+      "links": [
+        {
+          "label": "BEL Career Mentoring Program",
+          "href": "https://mentoring.app.uq.edu.au/p/p4/about"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "GenAI as a career planning tool",
+      "body": "Additionally, as a starting point, use GenAI to draft yourself a career plan: once you've developed some ideas about the industry or role you're interested in, write these down and let AI analyse these to give you a draft checklist and notes on actions to take whilst studying and/or upon graduation. Remember to double-check the accuracy of what has been generated and try to give as much detail as possible within your prompt, both in terms of the information the GenAI model has to work off as well as your prompt on the task."
+    }
+  ],
+  "relatedResources": [
+    "information-interview-guide"
+  ]
+}

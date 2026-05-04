@@ -1,0 +1,23 @@
+{
+  "slug": "external-resources",
+  "category": "resources-and-guides",
+  "title": "External Resources",
+  "status": "published",
+  "intro": "*We'd like to highlight some excellent careers resources for law students outside university from our sponsors:*",
+  "buttons": [
+    {
+      "label": "College of Law",
+      "type": "resource-modal",
+      "modalContent": "Alongside the excellent content around completing your PLT, College of Law also offers other excellent resources for students, including:\n\n- [Practical Legal Training (PLT) guide](https://www.collaw.edu.au/practical-legal-training/) - access either a general PDF guide or a tailored version emailed to you to shape your own PLT plan suited to you.\n- [Alternative Careers Guide](https://www.collaw.edu.au/practical-legal-training/alternative-careers) - College of Law's careers guide for students and graduates exploring legal career options beyond private practice or in-house roles.\n- [How to Become a Lawyer (PDF)](https://vfpsua.files.cmp.optimizely.com/download/assets/How+to+become+a+lawyer+SEP24.pdf/fcff873ad1d911ee87658ee96f755a99) - step-by-step overview of the pathway to admission in Australia.\n- [Jobs Board](https://jobs.collaw.com/jobs/) - PLT placements and early-career roles for both law students and graduates.\n- [News, Resources and Events](https://www.collaw.edu.au/community/) - graduate interviews, short video learning materials and articles."
+    },
+    {
+      "label": "Queensland Law Society (QLS)",
+      "type": "resource-modal",
+      "modalContent": "QLS organises their resources and events tailored to students and early career professionals on their website under [The Hub: Early Career Lawyers](https://www.qls.com.au/the-hub-early-career-lawyers). Some of the incredible resources we'd like to highlight include:\n\n- [QLS Student Membership](https://www.qls.com.au/qls-membership/student-membership) - access valuable resources for study, career, professional and social networks, and exclusive member discounts.\n- [Legal Careers Expo](https://www.qls.com.au/the-hub-early-career-lawyers/legal-careers-expo) - yearly networking event for Queensland law students; direct access to employers, practical career advice, LinkedIn Rescue, professional headshots.\n- [The Callover](https://www.qls.com.au/the-hub-early-career-lawyers/the-callover) - QLS podcast created by young lawyers, for young lawyers.\n- [Your Legal Career](https://www.qls.com.au/the-hub-early-career-lawyers/your-legal-career) - resources and assistance for different stages between studying law and admission.\n- [QLS Proctor - Law Students](https://www.qlsproctor.com.au/category/people/law-students/) - articles from QLS Proctor tailored to law students."
+    }
+  ],
+  "sections": [],
+  "relatedResources": [
+    "job-search"
+  ]
+}

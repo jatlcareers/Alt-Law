@@ -1,0 +1,129 @@
+{
+  "slug": "information-interview-guide",
+  "category": "jatl-career-tips",
+  "title": "Information Interview Guide",
+  "status": "published",
+  "byJatl": true,
+  "intro": "*Information Interview Outreach — LinkedIn & Email Templates*",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What is an information interview?",
+      "body": "An information interview is a short, informal conversation where you ask a legal practitioner about their career path, practice area, or workplace. The goal is insight and relationship-building — not securing a job. Approaching it this way makes practitioners far more willing to say yes."
+    },
+    {
+      "type": "comparison",
+      "heading": "Which channel should I use?",
+      "columns": [
+        {
+          "label": "LinkedIn message",
+          "items": [
+            "You found them through LinkedIn",
+            "No direct email address available",
+            "They are active on the platform",
+            "Warmer, more conversational tone preferred"
+          ]
+        },
+        {
+          "label": "Email",
+          "items": [
+            "You have their work email address",
+            "You were referred by a mutual contact",
+            "Contacting a senior or formal practitioner",
+            "A structured, formal approach is preferred"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "LinkedIn message templates",
+      "subheading": "Before you send — LinkedIn checklist",
+      "body": "- Connect first with a personalised note, or message directly if you share a connection\n- Review their full profile thoroughly — reference something specific in your note\n- Keep the connection request note under 300 characters\n- Do not attach your resume or ask for a job at this stage\n- Wait 1–2 days after connecting before sending the main message"
+    },
+    {
+      "type": "template",
+      "heading": "Step 1 — Connection request note",
+      "intro": "*This note has one job: get the connection accepted. Keep it short, specific, and low-pressure. Save the interview request for the follow-up message.*",
+      "meta": "~300 characters max",
+      "copyButton": true,
+      "body": "Hi *[First name]*, I'm a *[e.g. third-year]* law student at UQ with a strong interest in *[practice area]*. I came across your profile and was genuinely impressed by your work in *[specific area, matter, or article]*. I'd love to connect — no agenda, just keen to learn from people working in this space."
+    },
+    {
+      "type": "template",
+      "heading": "Step 2 — Follow-up message (after connecting)",
+      "intro": "*Send this message 1–2 days after they accept your connection. A separate message feels less transactional than bundling the request into the connection note.*",
+      "copyButton": true,
+      "body": "Hi *[First name]*, thanks for connecting — I really appreciate it. I'm reaching out because I'm genuinely interested in *[practice area / career path]*, and your experience at *[firm or organisation]* — particularly *[specific aspect of their work]* — really stood out to me. I'd love to ask you a few questions about your path into this area, if you'd be open to it. I'm thinking a 20–30 minute call or video chat at a time that suits you — I'm not looking for a job, just hoping to learn from someone doing work I find genuinely interesting. Completely understand if your schedule doesn't allow for it. Either way, thanks so much for connecting.\n\n*[Your full name]*\n*[UQ Law, Year X]*"
+    },
+    {
+      "type": "template",
+      "heading": "If they seem hesitant or decline",
+      "copyButton": true,
+      "body": "Hi *[First name]*, no pressure at all — I completely understand how busy things get. If it's ever easier, I'm also happy to send a couple of questions over message if that's more convenient. Thanks again for connecting."
+    },
+    {
+      "type": "prose",
+      "heading": "Email templates",
+      "subheading": "Before you send — email checklist",
+      "body": "- Verify the email address carefully — check the firm website for the correct format\n- Write a subject line that is clear and professional, not vague or clickbait\n- Name-drop a mutual connection in the opening line if you have one\n- Keep the email to four short paragraphs — brevity signals respect for their time\n- Send from your UQ student email address (e.g. your.name@uq.net.au)\n- Do not attach anything unless specifically requested"
+    },
+    {
+      "type": "template",
+      "heading": "Main outreach email",
+      "subjectLine": "UQ law student — request for a brief conversation",
+      "copyButton": true,
+      "body": "Dear *[Mr / Ms / Dr Surname]*,\n\n*[Optional — if referred: I was encouraged to reach out by [Name], who spoke very highly of your work in [area].]*\n\nMy name is *[Your Full Name]*, and I am a *[year]*-year law student at the University of Queensland, where I am focusing on *[relevant area of study or interest]*. I have been following your work with interest — particularly *[specific matter, publication, case, or initiative]* — and would very much appreciate the opportunity to hear your perspective on *[specific topic, e.g. building a practice in this area / the realities of commercial litigation]*.\n\nI am writing to ask whether you might be willing to spare 20–30 minutes for a brief conversation, whether in person, by phone, or via video call. I am not seeking employment; I am simply hoping to learn from someone with real experience in a field I care about.\n\nI recognise you are very busy, and I am grateful for your time regardless of your answer. If you are open to it, I am happy to work around your schedule entirely.\n\nWarm regards,\n*[Your Full Name]*\n*[Year]* LLB/JD Student, The University of Queensland\n*[Phone number]*\n*[LinkedIn profile URL]*"
+    },
+    {
+      "type": "prose",
+      "heading": "Subject line variations",
+      "body": "- **Default:** \"UQ law student — request for a brief conversation\"\n- **If referred:** \"Introduction from [Mutual contact] — brief conversation request\"\n- **Following up on specific work:** \"Your [article/achievement] on [X] — a question from a UQ law student\""
+    },
+    {
+      "type": "template",
+      "heading": "Follow-up email (if no reply after 7–10 days)",
+      "intro": "*Send only one follow-up. If there is still no reply after that, move on gracefully. Persistence beyond one follow-up risks leaving a negative impression.*",
+      "subjectLine": "Re: UQ law student — request for a brief conversation",
+      "copyButton": true,
+      "body": "Dear *[Mr / Ms / Dr Surname]*,\n\nI hope this finds you well. I wanted to follow up briefly on my earlier email in case it got lost in a busy inbox. I would still love the chance to speak with you if your schedule allows — even a 15-minute call would be enormously valuable.\n\nIf now isn't a good time, I completely understand. Thank you again for your consideration.\n\nWarm regards,\n*[Your Full Name]*"
+    },
+    {
+      "type": "comparison",
+      "heading": "Tone — dos and don'ts",
+      "columns": [
+        {
+          "label": "Do",
+          "items": [
+            "Be specific about why you chose this person",
+            "Show you have researched their work",
+            "Make the ask low-pressure and time-bound",
+            "Use your UQ student email for formal emails",
+            "Follow up once only if there is no reply"
+          ]
+        },
+        {
+          "label": "Don't",
+          "items": [
+            "Ask for a job or internship in the first message",
+            "Send the same generic message to everyone",
+            "Follow up more than once",
+            "Attach your resume unless specifically asked",
+            "Use informal language or abbreviations"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "After they say yes",
+      "body": "- Reply promptly to confirm the time and thank them warmly\n- Prepare 4–5 thoughtful questions in advance — research their recent work beforehand\n- Arrive on time and be concise — respect the time limit you proposed\n- Send a brief, personalised thank-you message within 24 hours of the conversation\n- Stay in occasional touch — share a relevant article, or update them when you land a clerkship\n\n*Building a genuine ongoing relationship is the long-term goal. The information interview is the first step, not a one-off transaction.*"
+    },
+    {
+      "type": "prose",
+      "heading": "You've Got This!",
+      "variant": "callout-tip",
+      "body": ""
+    }
+  ]
+}

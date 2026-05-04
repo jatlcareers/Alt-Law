@@ -1,0 +1,60 @@
+{
+  "slug": "cover-letters",
+  "category": "resources-and-guides",
+  "title": "Cover Letters",
+  "status": "published",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Writing a Cover Letter",
+      "subheading": "BEL Employability Essentials module",
+      "body": "A cover letter is part of your personal marketing toolkit. A strong cover letter can improve your chances of being shortlisted for an interview.\n\nIn this module you'll learn how to:\n\n- understand what employers look for in cover letters\n- highlight your skills and experience clearly and briefly\n- write a strong cover letter that helps you secure an interview.",
+      "links": [
+        {
+          "label": "'Writing a Cover Letter' module",
+          "href": "https://rise.articulate.com/share/LqGHN43nkkBD0uaksgv1Ys9xMwJ5bLJh#/"
+        },
+        {
+          "label": "Resume and cover letter writing guide",
+          "href": "https://studenthub.uq.edu.au/docs/408/Resume-Help.pdf",
+          "meta": "PDF, 127.8 KB"
+        },
+        {
+          "label": "Top tips for writing your cover letter",
+          "href": "https://employability.uq.edu.au/files/179534/SEED-Careers-CoverLetterTips2022.pdf",
+          "meta": "PDF, 57.6 KB"
+        },
+        {
+          "label": "Cover Letter Checklist",
+          "href": "https://employability.uq.edu.au/files/179898/SEED-Careers-CoverLetterChecklist2022.pdf",
+          "meta": "PDF, 46.9 KB"
+        },
+        {
+          "label": "The words to use in your application - Action verbs",
+          "href": "https://employability.uq.edu.au/files/208129/SES%20-%20Careers%20-%20Action%20Verbs%20-%202025.pdf",
+          "meta": "PDF, 77.6 KB"
+        },
+        {
+          "label": "Choosing referees",
+          "href": "https://employability.uq.edu.au/files/201263/Referees%20Guide.pdf",
+          "meta": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "heading": "Selection Criteria",
+      "links": [
+        {
+          "label": "Top tips for writing your selection criteria",
+          "href": "https://employability.uq.edu.au/files/179539/SEED-Careers-SelectionCriteriaTips2022.pdf",
+          "meta": "PDF, 47.5 KB"
+        }
+      ]
+    }
+  ],
+  "relatedResources": [
+    "resumes",
+    "preparing-for-applications"
+  ]
+}

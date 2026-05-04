@@ -1,0 +1,149 @@
+{
+  "slug": "associateships",
+  "name": "Associateships",
+  "iconName": "gavel",
+  "status": "published",
+  "sections": [
+    {
+      "heading": "Queensland Jurisdiction",
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "supreme-district",
+          "name": "Supreme and District Court",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Supreme and District Court",
+              "type": "modal",
+              "modalContent": "Applications open in December, approximately 14 months before commencement. Apply directly to an individual judge OR via a general pool. https://courts.qld.gov.au/about/jobs-with-the-courts/judges-associates"
+            }
+          ]
+        },
+        {
+          "slug": "land-court",
+          "name": "Land Court",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Land Court",
+              "type": "modal",
+              "modalContent": "Application Form + Questionnaire + cover letter (1 page max) + CV (5 pages max with 2 referees) + transcript. Submit to the Executive Assistant. https://courts.qld.gov.au/courts/land-court/land-court-associates"
+            }
+          ]
+        },
+        {
+          "slug": "qcat",
+          "name": "QCAT",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "QCAT",
+              "type": "modal",
+              "modalContent": "Applications open and close in August. Required: Application Form + Cover letter + CV + transcript. Submit to qcattribunal.appointments@justice.qld.gov.au."
+            }
+          ]
+        },
+        {
+          "slug": "qirc",
+          "name": "QIRC",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "QIRC",
+              "type": "modal",
+              "modalContent": "Vacancies advertised on SmartJobs and Seek. https://www.qirc.qld.gov.au/"
+            }
+          ]
+        }
+      ],
+      "testimonialsScope": "QLD Jurisdiction"
+    },
+    {
+      "heading": "Commonwealth Jurisdiction",
+      "displayMode": "buttonRow",
+      "orgs": [
+        {
+          "slug": "federal-court",
+          "name": "Federal Court of Australia",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Federal Court of Australia",
+              "type": "modal",
+              "modalContent": "Apply to an individual judge. Associateships are appointed 1 to 2 years in advance, typically in January or February. query@fedcourt.gov.au · https://www.fedcourt.gov.au/about/employment/associates"
+            }
+          ]
+        },
+        {
+          "slug": "fccfc",
+          "name": "Federal Circuit and Family Court of Australia",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Federal Circuit and Family Court of Australia",
+              "type": "modal",
+              "modalContent": "Recruitment via the Court's online recruitment system. Vacancies advertised on APSJobs (https://www.apsjobs.gov.au/)."
+            }
+          ]
+        },
+        {
+          "slug": "art",
+          "name": "Administrative Review Tribunal",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Administrative Review Tribunal",
+              "type": "modal",
+              "modalContent": "Recruitment via the ART Career Opportunities portal. recruitment@art.gov.au · (02) 9276 5443 · https://www.art.gov.au/about-us/careers"
+            }
+          ]
+        },
+        {
+          "slug": "fwc",
+          "name": "Fair Work Commission",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "Fair Work Commission",
+              "type": "modal",
+              "modalContent": "Own job portal. Associates support approximately 55 Members. Roles advertised at APS5 level for 12 to 18 months (extendable to 2 years). Merit pool valid for 18 months from date of advertisement."
+            }
+          ]
+        },
+        {
+          "slug": "nntt",
+          "name": "National Native Title Tribunal",
+          "pathways": [
+            "associateships"
+          ],
+          "links": [
+            {
+              "label": "National Native Title Tribunal",
+              "type": "modal",
+              "modalContent": "https://www.nntt.gov.au/aboutus/careers and https://www.fedcourt.gov.au/about/employment"
+            }
+          ]
+        }
+      ],
+      "testimonialsScope": "Commonwealth Jurisdiction"
+    }
+  ],
+  "bodyContent": "## What is an Associate?\n\nA Judge's Associate assists a judge or court. In Australia, an Associate is typically a recent graduate or a lawyer assisting a specific judge. The role also extends to Tribunal Members at the Administrative Appeals Tribunal (AAT), QCAT, and the Fair Work Commission.\n\n## What does Associateship involve?\n\nAssociateship is the privilege of working with experienced judges as mentors. The role involves frequent attendance at court, observation of oral advocacy, and exposure to judicial decision-making.\n\nDaily tasks include: assisting in court, summarising matters, proofreading judgments, liaising with parties, and conducting legal research. The role often includes circuit travel and extra-judicial tasks such as function planning and speechwriting.\n\nCareer benefits flow into innumerable fields - many alumni cite it as the single most formative year of their early career.\n\n## How to Apply?\n\nApplication processes vary per Court and Tribunal. Generally, you'll need a CV, a cover letter, and an academic transcript. An interview with the judge or member is typical for shortlisted candidates."
+}
