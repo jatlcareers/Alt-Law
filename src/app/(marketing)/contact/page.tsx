@@ -17,8 +17,8 @@ const CHANNELS = [
   {
     label: "Instagram",
     icon: Camera,
-    href: "https://www.instagram.com/jatl.uq/",
-    detail: "@jatl.uq",
+    href: "https://www.instagram.com/justiceandthelawsociety/",
+    detail: "@justiceandthelawsociety",
   },
   {
     label: "LinkedIn",
