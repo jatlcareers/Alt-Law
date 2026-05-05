@@ -2,19 +2,34 @@
   "slug": "jatl-recommends",
   "category": "jatl-career-tips",
   "title": "JATL Recommends",
-  "status": "partial",
+  "status": "published",
   "byJatl": true,
-  "intro": "*This page is a work in progress. Content marked below is being finalised.*",
   "sections": [
     {
       "type": "prose",
       "heading": "UQ Pro Bono Centre",
-      "body": "*(Intro paragraph coming soon.)*\n\n**Join the UQ Pro Bono Centre**\n\n- *(How to join - content pending.)*\n- *(How to get onto the service roster email - content pending.)*"
+      "body": "The UQ Pro Bono Centre is a cornerstone of social-justice learning at the TC Beirne School of Law. It connects students with real-world pro bono projects across community legal centres, not-for-profits, government bodies, and other justice-focused organisations. Through these opportunities, students gain practical legal experience, develop professional skills, and contribute meaningfully to access-to-justice initiatives across Queensland.\n\nThe Centre's partners span community legal centres, charities, the judiciary, statutory agencies, and regional legal services, giving students the chance to explore areas of law that align with their values and interests. All projects are supervised by UQ academics, ensuring students receive guidance, mentoring, and a supportive learning environment.\n\n**How to join the Pro Bono Roster (student volunteer pathway)**\n\nAll UQ law students - regardless of year level or experience - are eligible to join the Pro Bono Roster. Joining the roster simply means you will receive notifications of new opportunities; you are not committed to any project until you choose to apply.\n\nTo join the roster:\n\n1. Visit the UQ Pro Bono Centre's roster page.\n2. Complete the online sign-up form (\"Join the Pro Bono Roster\").\n3. Once registered, you will begin receiving emails about available projects.\n\nThe roster includes a wide variety of opportunities, from legal research and law reform to community legal education, administrative support, and client-facing assistance. Some roles require senior-level coursework, but many are open to first-year students.\n\n**How to get onto the Service Roster email**\n\nThe Service Roster is the Centre's email notification list for all pro bono opportunities. When you sign up online, you are automatically added to this mailing list. From there, you will receive regular updates about new roles, short-notice tasks, and ongoing project openings. You only commit to a project once you apply and are selected.",
+      "links": [
+        {
+          "label": "Join the Pro Bono Roster",
+          "href": "https://law.uq.edu.au/pro-bono/student-opportunities/join-roster"
+        }
+      ]
     },
     {
       "type": "prose",
       "heading": "Organisations for Young Queensland Lawyers",
-      "body": "*(Intro paragraph coming soon.)*\n\n- **Queensland Young Lawyers** - description pending.\n- **The Legal Forecast** - description pending."
+      "body": "**Queensland Young Lawyers (QYL)** is a volunteer-run organisation that supports early-career lawyers, law graduates, and law students across Queensland. It offers professional development events, networking opportunities, mentoring programs, and advocacy on issues affecting young practitioners. QYL is particularly valuable for students looking to build connections within the legal community and gain insight into diverse career pathways.\n\n**The Legal Forecast (TLF)** is a national, youth-led not-for-profit that promotes innovation, technology, and creative thinking in the legal profession. It brings together law students, early-career lawyers, technologists, and academics to explore the future of legal practice through events, workshops, hackathons, and thought-leadership projects. For students, TLF offers an accessible entry point into legal innovation, helping them build skills in design thinking, legal tech, and interdisciplinary collaboration.",
+      "links": [
+        {
+          "label": "Queensland Young Lawyers",
+          "href": "https://qyl.org.au"
+        },
+        {
+          "label": "The Legal Forecast",
+          "href": "https://thelegalforecast.com"
+        }
+      ]
     }
   ],
   "relatedPathways": [
