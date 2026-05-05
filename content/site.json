@@ -13,7 +13,6 @@
     { "id": "b2.5-wil-advisor", "description": "B2.5 - Book a consult with a WIL Advisor" },
     { "id": "b3.1-elevator-pitch", "description": "B3.1 - Developing and refining your elevator pitch (PDF)" },
     { "id": "b3.1-bel-careers-events", "description": "B3.1 - BEL Careers and Networking Events" },
-    { "id": "b3.1-better-call-sarah", "description": "B3.1 - Better Call Sarah (event details)" },
-    { "id": "a7-family-law-firm-urls", "description": "A7 Family Law - 19 firm URLs (Barry Nilsson, HopgoodGanim, Phillips Family Law, etc.)" }
+    { "id": "b3.1-better-call-sarah", "description": "B3.1 - Better Call Sarah (event details)" }
   ]
 }

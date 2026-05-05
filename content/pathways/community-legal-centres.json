@@ -12,7 +12,7 @@
         {
           "slug": "atsils",
           "name": "ATSILS - Aboriginal and Torres Strait Islander Legal Service",
-          "shortDescription": "Community-based legal service for Aboriginal and Torres Strait Islander peoples across Queensland.",
+          "shortDescription": "Not-for-profit community organisation contracted by the Commonwealth Attorney-General's Department to provide criminal, civil and family law services to Aboriginal and Torres Strait Islander Australians and their families in Queensland.",
           "pathways": [
             "community-legal-centres",
             "first-nations-law"
@@ -22,7 +22,7 @@
             "email": "careers@atsils.org.au",
             "phone": "(07) 3025 3888"
           },
-          "body": "ATSILS is a community-based public benevolent organisation, established to provide professional and culturally competent legal services for Aboriginal and Torres Strait Islander peoples throughout Queensland. ATSILS provides legal services in criminal, family, child protection and civil law matters (which include human rights, anti-discrimination and coronial enquiries).\n\n**For Students:**\nATSILS welcomes Queensland students currently undertaking a Law/Justice/Indigenous Studies/Advocacy degree (or combination thereof) for placements in their Brisbane or regional offices. Whilst there are no fees for an internship with ATSILS, strong cultural competence training is provided. Apply via the Student Placement Program: https://www.atsils.org.au/student-placements/\n\n**For Graduates:**\nGraduate vacancies at https://www.atsils.org.au/job-vacancies/ and via Seek. Address selection criteria + provide employment skills/history. Three-member panel interview (in-person or Skype for Business). Prefers 2+ years post-admission, but less is welcome. Advocacy and court experience (Duty Lawyer + hearings) advantageous. Number of positions depends on yearly funding."
+          "body": "The Aboriginal and Torres Strait Islander Legal Service (ATSILS) is a not-for-profit, community organisation contracted by the Commonwealth Attorney-General's Department to provide criminal, civil and family law services to Aboriginal and Torres Strait Islander Australians and their families in Queensland. ATSILS seeks to influence positive change within the justice system to reflect an appreciation for the culturally specific and diverse circumstances that impact upon Aboriginal and Torres Strait Islander people and communities. The organisation also seeks to provide quality evidence-based research, advice and direction to rectify policies and practices that adversely and disproportionately impact on the legal rights of Aboriginal and Torres Strait Islander people.\n\n**For Students**\n\nStudents currently studying law, justice, indigenous studies, advocacy are encouraged to apply for the Student Placement Program at ATSILS. Placements are available within either the Brisbane or regional offices. Students will be exposed to criminal law, family law and child protection, and civil law (which includes human rights law, coronial enquiries, and other legal services) matters.\n\nApply via https://www.atsils.org.au/student-placements/."
         },
         {
           "slug": "ada-law",
@@ -37,7 +37,7 @@
         {
           "slug": "basic-rights-queensland",
           "name": "Basic Rights Queensland",
-          "shortDescription": "Free legal services in social security, Centrelink and disability discrimination law.",
+          "shortDescription": "State-wide specialist community legal centre providing advice, advocacy and free legal services to people having problems with social security or disability discrimination.",
           "pathways": [
             "community-legal-centres"
           ],
@@ -45,7 +45,7 @@
           "contact": {
             "email": "brq@brq.org.au"
           },
-          "body": "Basic Rights Queensland is a CLC providing free legal services in social security/Centrelink and disability discrimination law. They also provide community legal education and advocate for law reform.\n\n**For Students:**\nBasic Rights Qld runs two volunteer rosters per year - Jan to Jun (apps open November) and Jul to Dec (apps open May). Volunteers attend on a regular weekly basis under solicitor supervision. Available through LAWS5180 (Clinical Legal Education) at UQ. Direct email applications also accepted."
+          "body": "Basic Rights Queensland (BRQ) is a state-wide specialist community legal centre, providing advice, advocacy and free legal services to people having problems with social security or disability discrimination. BRQ offers opportunities for volunteers to learn and to develop essential professional skills, such as client interviewing, record keeping and a practical understanding of the process of administration review. Volunteers will predominantly act as a point of first contact taking down a client's information and passing it on to BRQ's telephone advice workers.\n\n**How to apply**\n\nTo find out more and enquire about volunteering opportunities, email brq@brq.org.au. Applications for the January - June roster are accepted in November of the previous year and applications for the July - December roster are accepted in May. Alternatively, students can also volunteer through the Pro Bono Centre's Clinical Legal Education Program (LAWS5180)."
         },
         {
           "slug": "bayside-community-legal-service",
@@ -60,32 +60,32 @@
         {
           "slug": "caxton-legal-centre",
           "name": "Caxton Legal Centre",
-          "shortDescription": "One of Queensland's longest-running CLCs - criminal law, social justice, family, civil, human rights and elder law.",
+          "shortDescription": "Represents the interests of people who are disadvantaged or on a low income when they come into contact with the law.",
           "pathways": [
             "community-legal-centres"
           ],
           "links": [],
-          "body": "Caxton Legal Centre is one of Queensland's longest-running CLCs, providing free legal advice and representation in criminal law, social justice law, family and civil law, human rights and elder law.\n\n**Three volunteer pathway types:**\n\n1. **Front Office Student Volunteers** - 4-hour weekly shift across the semester. Front-of-house, intake, and administrative support.\n2. **Clinical Legal Education** - LAWS5180 Consumer Law Clinic at UQ.\n3. **Volunteer Projects** - accessed via the UQ Pro Bono roster."
+          "body": "Caxton Legal Centre represents the interests of people who are disadvantaged or on a low income when they come into contact with the law. The centre does this by strategically advocating to government, providing legal advice and social work services, publishing legal information and building community awareness about the issues faced by the people the centre help.\n\nVacancies are advertised on websites such as Seek and Ethical Jobs. Caxton Legal Centre recruits student volunteers in a number of capacities:\n\n**Front Office Student Volunteers:** Volunteers provide the first point of contact for clients. Students are expected to commit to a 4-hour weekly shift for a semester. As well as submitting a resume and cover letter, students must address the relevant selection criteria.\n\n**Clinical Legal Education:** In partnership with Caxton, the UQ Pro Bono Centre runs a student consumer law clinic (LAWS5180). Students gain credit towards their law degree by participating in these clinics. Students must apply for a place in the clinical legal education program prior to the semester starting - information can be found on the UQ Law website.\n\n**Volunteer Projects:** Caxton Legal Centre also partners with the UQ Pro Bono Centre to deliver several other volunteer projects. Students should monitor the UQ Pro Bono Centre roster."
         },
         {
           "slug": "edo",
           "name": "Environmental Defenders Office (EDO)",
-          "shortDescription": "Public-interest environmental and planning law CLC.",
+          "shortDescription": "The largest environmental legal centre in the Australia-Pacific, dedicated to protecting climate, communities and shared environment.",
           "pathways": [
             "community-legal-centres"
           ],
           "links": [],
-          "body": "EDO is a community legal centre specialising in public-interest environmental and planning law. They support communities advocating for environmental justice and law reform.\n\n**For Students:**\nStrong preference for students focused on environment, planning, or administrative law. Six-month application window. UQ students can access EDO via LAWS5180 Environmental Law Clinic."
+          "body": "Environmental Defenders Office (EDO) is the largest environmental legal centre in the Australia-Pacific, dedicated to protecting climate, communities and shared environment by providing access to justice, running ground-breaking litigation and leading law reform advocacy. They work with conservation groups, Traditional Owners and people from communities across Australia.\n\n**For Students**\n\nDue to the complex nature of the work at EDO, preference will be given to students who have completed environment law, planning law, and administrative law. However, all students are encouraged to apply. Applications received for volunteer programs will be kept on file for six months and considered when a place becomes available. The volunteering program runs all year long. The EDO runs volunteer programs for law students:\n\n**Law Student Volunteer Placement Program:** In partnership with EDO, the UQ Pro Bono Centre runs the Environmental Law Clinic. Students gain credit towards their law degree (LAWS5180).\n\nKeep an eye out in the UQ Pro Bono Centre Roster for EDO legal volunteer opportunities throughout the semester and during holidays."
         },
         {
           "slug": "hub-community-legal",
           "name": "HUB Community Legal",
-          "shortDescription": "Free legal advice and assistance across family, civil, criminal and consumer law.",
+          "shortDescription": "Free legal advice to communities within Brisbane's Southwest suburbs.",
           "pathways": [
             "community-legal-centres"
           ],
           "links": [],
-          "body": "HUB Community Legal provides free legal advice and assistance across a wide range of areas including family, civil, criminal, and consumer law.\n\n**For Students:**\nTwo annual application windows: January and July. Applications submitted via the HUB website."
+          "body": "HUB Community Legal provides free legal advice to communities within Brisbane's Southwest suburbs. The aim of HUB Community Legal is to empower residents with the knowledge and ability to solve their own issues. The service also conducts educational activities on legal topics. HUB Community Legal specifically does not provide assistance with personal injury, conveyancing, commercial matters or tenancy for landlords.\n\n**For Students**\n\nVolunteering opportunities exist for law students to provide reception and administrative support for evening volunteer clinics and assist the intake and referral team. New volunteers are encouraged to apply in January and July each year. Applications must be submitted through their website."
         },
         {
           "slug": "knowmore",
@@ -100,7 +100,7 @@
         {
           "slug": "lawright",
           "name": "LawRight",
-          "shortDescription": "Coordinates pro bono civil legal services for vulnerable people in Queensland.",
+          "shortDescription": "Independent not-for-profit legal organisation that coordinates the provision of pro bono legal service for individuals and community groups in Queensland.",
           "pathways": [
             "community-legal-centres"
           ],
@@ -108,12 +108,12 @@
           "contact": {
             "email": "admin@lawright.org.au"
           },
-          "body": "LawRight is a non-profit, community-based legal centre coordinating pro bono civil legal services for vulnerable people in Queensland.\n\n**Volunteer pathways:**\n\n- **Community & Health Justice Partnerships clinic** - embedded legal services in healthcare settings.\n- **Mater Health clinic** - partnership-based legal support.\n- **General volunteering** - apply via admin@lawright.org.au."
+          "body": "LawRight is an independent not-for-profit legal organisation that coordinates the provision of pro bono legal service for individuals and community groups in Queensland. LawRight operates a civil law referral service and direct legal services for particularly disadvantaged client groups, and undertakes law reform, policy work and legal education.\n\n**For UQ Students**\n\n**Community & Health Justice Partnerships student clinic** - a clinical legal education subject that involves student placements with LawRight and private law firms, focussing on client casework and research (2 semesters per year). In each university semester, 6 law students participate in the subject, which comprises two major activities:\n\n- Working with volunteer lawyers from private law firms to assist in the provision of legal assistance to people experiencing homelessness or related forms of disadvantage and marginalisation. Over 6 weeks, students are placed with a firm, attend one of the Legal Clinics and participate in casework and other tasks to assist clients to resolve their legal issues; and\n- Contributing to the HPLC's legal research and advocacy work. Students spend 6 weeks in the LawRight office under the supervision of HPLC staff and are involved in research and law reform projects.\n\nTo participate, see University of Queensland TC Beirne School of Law's website.\n\n**Health Advocacy Legal Clinic at Mater** - the legal clinic at the Mater Young Adult Health Centre is a partnership involving the Mater Hospital, UQ Law, Social Work and Medical schools. Students help to provide advice and assistance to patients in a variety of areas, including guardianship law, advanced care planning, enduring powers of attorney and care issues for people with a disability.\n\n**Volunteering:** LawRight also invites students to volunteer each semester. Volunteers are usually final year or penultimate year of their degree and contribute for 1 day per week. Applications are usually called as needed or before each semester commences. To find more information about recruitment, students can follow LawRight on social media or email admin@lawright.org.au with their CV, interest and availability."
         },
         {
           "slug": "lgbti-legal-service",
           "name": "LGBTI Legal Service",
-          "shortDescription": "Free, confidential legal advice for LGBTIQ+ people in Queensland.",
+          "shortDescription": "Non-profit community legal service launched in 2010 by the Hon Michael Kirby AC CMG, providing confidential free legal advice and information to the LGBTIQA+ community throughout Queensland.",
           "pathways": [
             "community-legal-centres"
           ],
@@ -121,7 +121,7 @@
           "contact": {
             "email": "mail@lgbtilegalservice.org"
           },
-          "body": "The LGBTI Legal Service provides free, confidential legal advice and referrals for LGBTIQ+ people in Queensland. Practice areas include discrimination, family, criminal, and human rights law."
+          "body": "The LGBTI Legal Service is a non-profit community legal service that was launched in 2010 by the Hon Michael Kirby AC CMG. The Service provides confidential free legal advice and information to the LGBTIQA+ community throughout Queensland. The LGBTI Legal Service assists people with legal problems which arose due to their identification as LGBTIQA+ and/or because they feel more comfortable in dealing with a solicitor with specific skills and understanding of LGBTIQA+ legal issues and barriers experienced by LGBTIQA+ people in accessing the legal system.\n\nThe LGBTI Legal Service provides advice in relation to family law, domestic violence, surrogacy and parenting rights, criminal law, discrimination, Victims Assist, civil matters, government decisions, and employment matters. The Service also has a dedicated law reform team who are actively involved in advocating for law reform and human rights affecting the LGBTIQA+ community both in Queensland and federally.\n\nFor enquiries regarding expressions of interest to volunteer, reach out via mail@lgbtilegalservice.org."
         },
         {
           "slug": "northside-connect",
@@ -136,7 +136,7 @@
         {
           "slug": "prisoners-legal-service",
           "name": "Prisoners' Legal Service (PLS)",
-          "shortDescription": "Free legal advice and representation for prisoners in Queensland.",
+          "shortDescription": "Promotes justice, human rights, equity and the rule of law in society and in the administration of prisons and punishment.",
           "pathways": [
             "community-legal-centres"
           ],
@@ -144,42 +144,42 @@
           "contact": {
             "email": "pls@plsqld.com"
           },
-          "body": "PLS provides free legal advice and representation for prisoners in Queensland. Practice areas include parole, prison conditions, disciplinary breaches, and human rights.\n\n**Three student pathways:**\n\n- **UQ Prison Law Clinic** - LAWS5180.\n- **Mail Clinic** - written legal correspondence with prisoners.\n- **Community Call Back** - telephone-based legal advice."
+          "body": "The Prisoner's Legal Service (PLS) exists to promote justice, human rights, equity and the rule of law in society and in the administration of prisons and punishment. The Service provides and promotes access to justice through legal advice, information and assistance to prisoners and their families; community legal education and law reform, advocacy and policy development. PLS regularly recruits student volunteers and offers summer internships.\n\n**For Students**\n\n**UQ Pro Bono Centre Partnership:** runs the Prison Law Clinic. Students gain credit towards their law degree (LAWS5180).\n\n**Mail Clinic:** Involves volunteer law students, under the supervision of volunteer lawyers, sourcing relevant online legal information in response to mail enquiries received.\n\n**Community Call Back:** Operated by volunteer lawyers and operates to provide information to people who contact PLS seeking assistance on behalf of their friends or family members in prison.\n\nIf interested, please email pls@plsqld.com."
         },
         {
           "slug": "qai",
           "name": "Queensland Advocacy for Inclusion (QAI)",
-          "shortDescription": "Independent advocacy and legal organisation for people with disability in Queensland.",
+          "shortDescription": "Legal advocacy organisation for people with disability in Queensland.",
           "pathways": [
             "community-legal-centres"
           ],
           "links": [],
-          "body": "QAI is an independent, community-based advocacy and legal organisation for people with disability in Queensland.\n\n**For Students:**\nVolunteer via UQ Pro Bono Centre placement OR independently. Ten-day commitment minimum. Apply 2 to 4 weeks before semester start or end of semester. Use the subject line \"Application to volunteer at QAI\" when applying directly."
+          "body": "Queensland Advocacy for Inclusion (QAI) is a legal advocacy organisation for people with disability in Queensland. QAI's mission is to promote, protect and defend, through advocacy, the fundamental needs, rights and lives of the most vulnerable people with disability.\n\n**For Students**\n\nStudent volunteers assist with a number of tasks including legal research, drafting, preparation of counsel briefs, photocopying and administrative tasks.\n\nQAI is partnered with the University of Queensland to offer placements to students each university semester through the UQ Pro Bono Centre.\n\nStudents wishing to volunteer independently should first contact QAI to see if they currently have volunteering vacancies. Applicants can apply by forwarding a current CV and a short covering email as to why they are interested in volunteering with QAI, with the subject line \"Application to volunteer at QAI\". It assists if you can advise of your availability (days you are able to volunteer, potential start dates). Law students further on in their degree may be preferred, unless the applicant has relevant experience in other areas. Applicants will be required to attend a short interview, either by telephone or in person, before a position is offered.\n\nThe best time to seek volunteering opportunities is 2-4 weeks before the start of university semester. Another good time is towards the end of semester, when clinic students are finishing and extra support from volunteer students is needed.\n\nDue to the training involved, students are expected to commit to at least 10 full days. This can be spread over 10 weeks, or over a shorter period by negotiation."
         },
         {
           "slug": "rails",
           "name": "Refugee and Immigration Legal Service (RAILS)",
-          "shortDescription": "Free legal advice and representation to refugees, asylum seekers, and migrants.",
+          "shortDescription": "Free advice on Australian migration law including sponsorship, reviews, permanent residence, citizenship, visa cancellation, refugee status, protection visas and detention.",
           "pathways": [
             "community-legal-centres"
           ],
           "links": [],
-          "body": "RAILS provides free legal advice and representation to refugees, asylum seekers, and migrants in Queensland.\n\n**For Students:**\n\n- **UQ Refugee and Immigration Law Clinic** (LAWS5180).\n- **Day volunteer requirements:** 3rd year+, CV/cover letter/transcript. Three intakes per year (Feb / Jun-Jul / Nov). Commitment is 1 day/week for 3 months."
+          "body": "The Refugee and Immigration Legal Service (RAILS) provides free advice on Australian migration law including sponsorship, reviews, permanent residence, citizenship, visa cancellation, refugee status, protection visas and detention. It does so through the operation of its general advice clinic, casework and education to refugees settling in Australia.\n\n**For Students**\n\nIn partnership with RAILS, the UQ Pro Bono Centre runs the Refugee and Immigration Law Clinic. Students gain credit towards their law degree (LAWS5180). Preference will be given to students who have studied Immigration and Refugee Law, or who have a demonstrated interest in this area.\n\nRAILS recruits student volunteers as day volunteers. Day volunteers assist caseworkers and perform tasks such as interviewing clients, drafting client statements and legal submissions, researching country information and form filling and assisting with case files. To apply for a day volunteer position, you must be in your third year of study, have some legal work experience and a demonstrated commitment to social justice. Students who are earlier in their degree or have limited work experience may still be considered for evening advice coordinator. Application must include a CV, cover letter and academic transcript.\n\nRAILS recruits volunteers throughout the year but particularly welcomes applications around February (to start during Semester 1), June/July (to start during the mid year break) and November (to start in the summer holidays). Volunteers are required to commit to a day per week for three months."
         },
         {
           "slug": "sisters-inside",
           "name": "Sisters Inside Inc.",
-          "shortDescription": "Independent advocacy for the human rights of women and girls in the criminal justice system.",
+          "shortDescription": "Independent community organisation advocating for the human rights of women in the criminal justice system and addressing gaps in services available to them.",
           "pathways": [
             "community-legal-centres"
           ],
           "links": [],
-          "body": "Sisters Inside is an independent community organisation advocating for the human rights of women and girls in the criminal justice system.\n\n**Pathways:**\n\n- Apply via the Sisters Inside website.\n- Apply via UQ Pro Bono Centre.\n- **Dual-degree graduate pathways:** Children's Violence Prevention Worker, Youth Violence Prevention Worker, Policy Officer."
+          "body": "Sisters Inside is an independent community organisation which exists to advocate for the human rights of women in the criminal justice system and to address gaps in the services available to them. The organisation works alongside women in prison to provide support for children of mothers in prison, assist in bail applications, provide sexual assault counselling. Sisters Inside has offices in Brisbane and Townsville. They aim to provide services which support criminalised women and girls and their children to address their many different needs. They provide services in all women's prisons in Queensland. Sisters Inside also work with women, girls and their children post-release in the community. Their overarching goal is to reduce the number of women in prison - supporting them to avoid going to prison in the first place, to apply for parole as soon as they are eligible, and to stay out of prison following release.\n\nTheir Brisbane office offers a wide variety of programs to women, young people and children throughout South East Queensland. Their Townsville office provides a variety of programs in North Queensland. Sisters Inside offers some outreach services elsewhere.\n\n**For Students**\n\nAny volunteer positions that open up will be advertised on their website. The UQ Pro Bono Centre sometimes advertises opportunities with Sisters Inside. Graduates with dual degrees may be able to apply for a job as a Children's Violence Prevention Worker, Youth Violence Prevention Workers or as a Policy Officer. Lawyers are not necessarily hired for the Sisters Inside organisation."
         },
         {
           "slug": "tenants-queensland",
           "name": "Tenants Queensland",
-          "shortDescription": "Queensland's specialist tenants' advice and advocacy service.",
+          "shortDescription": "Community Legal Centre, formerly known as the Tenants' Union of Queensland, representing the legal concerns of tenants.",
           "pathways": [
             "community-legal-centres"
           ],
@@ -188,12 +188,12 @@
             "website": "https://tenantsqld.org.au/category/careers/",
             "email": "volunteer@tenantsqld.org.au"
           },
-          "body": "Tenants Queensland is the state's specialist tenants' advice and advocacy service.\n\n**For Students:**\n\n- LAWS5180 access at UQ.\n- Volunteer applications via the careers page or volunteer email."
+          "body": "Tenants Queensland is a Community Legal Centre, formerly known as the Tenants' Union of Queensland, which represents the legal concerns of tenants. The organisation works in policy reform, while also delivering its statewide program 'QSTARS'. The 'Queensland Statewide Tenant Advice and Referral Service' is a free service which delivers tenancy advice and advocacy to the entire state of Queensland. The program is delivered in partnership with other community legal centres around Queensland. Advice Workers at Tenants Queensland, operating through their QSTARS program, have the opportunity to engage with a broad range of clients, offering tenancy advice and advocacy.\n\n**For Students**\n\nTenants Queensland participates in LAWS5180, offering placement to UQ Law students which counts as credit towards their degrees.\n\nPositions are advertised on Seek and Ethical Jobs, and their website: https://tenantsqld.org.au/category/careers/\n\nTenants Queensland also has a volunteer program based in their Brisbane office. If you would like to get involved and share your skills, email volunteer@tenantsqld.org.au."
         },
         {
           "slug": "wlsq",
           "name": "Women's Legal Service (WLSQ)",
-          "shortDescription": "Free legal services for women across Queensland: family law, domestic violence, discrimination.",
+          "shortDescription": "Specialist community legal centre providing free legal and social work services to women in Queensland.",
           "pathways": [
             "community-legal-centres"
           ],
@@ -201,22 +201,22 @@
           "contact": {
             "email": "volunteers@wlsq.org.au"
           },
-          "body": "WLSQ provides free legal services to women across Queensland, with a particular focus on family law, domestic violence, and discrimination.\n\n**Important:** WLSQ is a women's-only space. Client-facing roles are reserved for female-identifying staff and volunteers."
+          "body": "The Women's Legal Service is a specialist community legal centre providing free legal and social work services to women in Queensland. The Service provides advice to women in the areas of family law, child support, domestic violence and child protection, community legal education and produces specialist publications. The Service operates through advice lines, interviews and advice sessions.\n\n**For Students**\n\nInformation about available volunteer roles can be found at their website. Volunteering opportunities may also be advertised through the UQ Pro Bono Centre. Alternatively, students can email volunteers@wlsq.org.au and ask about any available volunteering opportunities. Students must have demonstrated an interest in family law and the work of feminist organisations. Graduates should look for positions on Ethical Jobs and Seek. For the safety of their clients, Women's Legal Service is a \"women's only space\" and hires female-identifying employees in client-facing roles."
         },
         {
           "slug": "yfs-legal",
           "name": "YFS Legal",
-          "shortDescription": "Community-based legal service operating in Logan and surrounding region.",
+          "shortDescription": "General legal advice for the Logan community, plus support and representation for young people under 25 with criminal law matters.",
           "pathways": [
             "community-legal-centres"
           ],
           "links": [],
-          "body": "YFS Legal is a community-based legal service operating in Logan and the surrounding region.\n\n**Two clinic pathways at UQ:**\n\n- **Generalist Legal Task Clinic** (UQ Pro Bono).\n- **Culturally Safe criminal law practice clinic** (LAWS5180)."
+          "body": "YFS Legal provides general legal advice to people in the Logan community and legal advice, support and representation for young people under 25 with criminal law matters.\n\n**For Students**\n\n**UQ Pro Bono Centre Partnership:** runs the Generalist Legal Task Clinic and Culturally Safe criminal law practice clinic. Students gain credit towards their law degree (LAWS5180).\n\nThe legal task clinic focuses on improving access to justice for the Logan community. Students undertake a variety of legal tasks under supervision of a lawyer including preparing Peace and Good Behaviour Order applications, Domestic and Family Violence Order applications and variations, Divorce applications, QCAT applications, letters of demand, Victims Assist applications and applications for a grant of Legal Aid. Students will have direct phone and face-to-face contact with clients. They may also be asked to help with legal research and the preparation of legal advice.\n\nIn the Culturally Safe criminal law practice clinic, students learn about culturally safe practice in criminal law. This unique clinic provides students with an opportunity to engage more deeply in the issues facing Aboriginal and Torres Strait Islander peoples interacting with the criminal justice system and to develop an appreciation for the important work of Indigenous practitioners across the legal system. The first six weeks of placement focus on developing an understanding of the Youth Justice system, particularly surrounding the injustices faced by Aboriginal and Torres Strait Islander young people, while the last six weeks of the clinic see students undertaking practical exercises such as writing submissions and preparing cases for prosecution and defence."
         },
         {
           "slug": "youth-advocacy-centre",
           "name": "Youth Advocacy Centre",
-          "shortDescription": "Free legal and social work services for young people aged 10 to 18 in Queensland.",
+          "shortDescription": "Free legal services, youth support and family support assistance and services to young people (generally aged 10-18).",
           "pathways": [
             "community-legal-centres"
           ],
@@ -224,7 +224,7 @@
           "contact": {
             "email": "admin@yac.net.au"
           },
-          "body": "The Youth Advocacy Centre (YAC) provides free legal and social work services for young people aged 10 to 18 in Queensland.\n\n**Application:** cover letter + resume to admin@yac.net.au."
+          "body": "The Youth Advocacy Centre (YAC) offers free legal services, youth support and family support assistance and services to young people (generally aged 10-18). YAC focuses on assisting children involved in the youth justice or child protection systems or experiencing or at risk of homelessness. YAC can assist young people with:\n\n- legal hassles - including being charged with breaking the law or child protection issues;\n- information about legal issues;\n- problems at home or school;\n- family relationships;\n- lack of accommodation and/or income;\n- being the victim of a crime (including abuse); and\n- discrimination issues.\n\nYAC also supports the development of social and legal systems that are more responsive and appropriate to the needs of children and young people and which take account of Australia's international obligations.\n\n**For Students**\n\nTo apply, submit a cover letter and resume to admin@yac.net.au. Your application should include why you would like to volunteer at YAC, what you can offer, what you are seeking from this experience and the time you have available."
         }
       ],
       "showTestimonialsButton": false
