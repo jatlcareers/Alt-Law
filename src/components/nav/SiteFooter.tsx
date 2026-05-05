@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { AltLawLogo } from "@/components/ui/AltLawLogo";
 import type { SiteConfig } from "@/lib/types";
+import { withBasePath } from "@/lib/asset";
 
 const FOOTER_SECTIONS: { heading: string; links: { label: string; href: string }[] }[] = [
   {
@@ -69,7 +70,7 @@ export function SiteFooter({ sponsors }: Props) {
               {sponsors.map((sponsor) => {
                 const inner = sponsor.logoUrl ? (
                   <Image
-                    src={sponsor.logoUrl}
+                    src={withBasePath(sponsor.logoUrl)}
                     alt={sponsor.name}
                     width={96}
                     height={40}

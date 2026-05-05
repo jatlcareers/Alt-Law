@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArrowRight, GraduationCap, Briefcase, HeartHandshake } from "lucide-react";
 import { getSiteConfig } from "@/lib/content";
 import { buildMetadata } from "@/lib/og";
+import { withBasePath } from "@/lib/asset";
 
 export const metadata = buildMetadata({
   title: "JATL's Alt+Law Student Careers Guide",
@@ -40,7 +41,7 @@ export default function HomePage() {
       <section className="bg-ink text-ink-fg">
         <div className="mx-auto max-w-[1280px] px-4 py-20 sm:px-6 sm:py-24 lg:px-8 lg:py-28">
           <Image
-            src="/logos/jatl.jpg"
+            src={withBasePath("/logos/jatl.jpg")}
             alt="JATL - Justice and the Law Society"
             width={160}
             height={160}
@@ -121,7 +122,7 @@ export default function HomePage() {
             {site.sponsors.map((sponsor) => {
               const content = sponsor.logoUrl ? (
                 <Image
-                  src={sponsor.logoUrl}
+                  src={withBasePath(sponsor.logoUrl)}
                   alt={sponsor.name}
                   width={120}
                   height={48}

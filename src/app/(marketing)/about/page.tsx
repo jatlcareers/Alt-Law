@@ -4,6 +4,7 @@ import { ArrowRight, BookOpen, Megaphone, HeartHandshake, Briefcase } from "luci
 import { getSiteConfig } from "@/lib/content";
 import { buildMetadata } from "@/lib/og";
 import { Markdown } from "@/components/ui/Markdown";
+import { withBasePath } from "@/lib/asset";
 
 export const metadata = buildMetadata({
   title: "About JATL",
@@ -99,7 +100,7 @@ export default function AboutPage() {
         <div className="flex items-center justify-center rounded-xl border border-dashed border-border bg-surface p-8 text-center">
           <div>
             <Image
-              src="/membership-qr.gif"
+              src={withBasePath("/membership-qr.gif")}
               alt="Scan to join JATL"
               width={192}
               height={192}
