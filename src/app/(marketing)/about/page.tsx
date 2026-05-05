@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, BookOpen, Megaphone, HeartHandshake, Briefcase } from "lucide-react";
 import { getSiteConfig } from "@/lib/content";
@@ -97,11 +98,16 @@ export default function AboutPage() {
         </div>
         <div className="flex items-center justify-center rounded-xl border border-dashed border-border bg-surface p-8 text-center">
           <div>
-            <div className="mx-auto inline-flex h-32 w-32 items-center justify-center rounded-lg bg-bg-muted text-text-subtle">
-              <span className="text-xs font-medium">Join QR code</span>
-            </div>
+            <Image
+              src="/membership-qr.gif"
+              alt="Scan to join JATL"
+              width={192}
+              height={192}
+              unoptimized
+              className="mx-auto h-48 w-48 rounded-lg bg-white p-2"
+            />
             <p className="mt-3 text-xs text-text-subtle">
-              QR placeholder - swap with the JATL membership QR before launch.
+              Scan to join JATL.
             </p>
           </div>
         </div>

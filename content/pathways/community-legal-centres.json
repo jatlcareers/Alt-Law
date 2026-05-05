@@ -30,7 +30,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://adalaw.com.au/" }
+          ]
         },
         {
           "slug": "basic-rights-queensland",
@@ -51,7 +53,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.bcls.org.au/" }
+          ]
         },
         {
           "slug": "caxton-legal-centre",
@@ -89,7 +93,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://knowmore.org.au/" }
+          ]
         },
         {
           "slug": "lawright",
@@ -123,7 +129,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://northsideconnect.org.au/" }
+          ]
         },
         {
           "slug": "prisoners-legal-service",
@@ -231,7 +239,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.atsiwlsnq.org.au/" }
+          ]
         },
         {
           "slug": "aboriginal-family-legal-services-queensland-maruma-li-mari",
@@ -239,7 +249,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.aflssq.org.au/" }
+          ]
         },
         {
           "slug": "cairns-community-legal-centre",
@@ -247,7 +259,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.cclc.org.au/" }
+          ]
         },
         {
           "slug": "central-queensland-community-legal-centre-rockhampton",
@@ -255,7 +269,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://cqclc.org.au/" }
+          ]
         },
         {
           "slug": "gold-coast-community-legal-centre-advice-bureau",
@@ -263,7 +279,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.gcclc.org.au/" }
+          ]
         },
         {
           "slug": "institute-for-urban-indigenous-health-legal-service",
@@ -271,7 +289,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.iuih.org.au/our-services/health-and-wellbeing-services/legal-service/" }
+          ]
         },
         {
           "slug": "junkuri-laka-community-legal-centre-aboriginal-corporation-mornington-island",
@@ -279,7 +299,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.junkurilaka.org" }
+          ]
         },
         {
           "slug": "pine-rivers-community-legal-service",
@@ -287,7 +309,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://encircle.org.au/pine-rivers-community-legal-service/" }
+          ]
         },
         {
           "slug": "mackay-regional-community-legal-centre",
@@ -295,7 +319,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://mrclc.com.au/" }
+          ]
         },
         {
           "slug": "my-community-legal-gold-coast",
@@ -303,7 +329,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.mycommunitylegal.org.au/" }
+          ]
         },
         {
           "slug": "queensland-indigenous-family-violence-legal-service",
@@ -311,7 +339,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://qifvls.com.au/" }
+          ]
         },
         {
           "slug": "suncoast-community-legal-service",
@@ -319,7 +349,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://suncoastcommunitylegal.org/" }
+          ]
         },
         {
           "slug": "tasc-community-legal-centre-toowoomba",
@@ -327,7 +359,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://www.tascnational.org.au/" }
+          ]
         },
         {
           "slug": "townsville-community-legal-service",
@@ -335,7 +369,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://townsvillecommunity.law/" }
+          ]
         },
         {
           "slug": "wide-bay-burnett-community-legal-service",
@@ -343,7 +379,9 @@
           "pathways": [
             "community-legal-centres"
           ],
-          "links": []
+          "links": [
+            { "type": "external", "label": "Website", "href": "https://wbbcls.com.au/" }
+          ]
         }
       ],
       "showTestimonialsButton": false

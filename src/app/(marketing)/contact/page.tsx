@@ -11,8 +11,8 @@ const CHANNELS = [
   {
     label: "Email JATL",
     icon: Mail,
-    href: "mailto:hello@jatluq.com",
-    detail: "hello@jatluq.com",
+    href: "mailto:president@jatl.org",
+    detail: "president@jatl.org",
   },
   {
     label: "Instagram",

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, GraduationCap, Briefcase, HeartHandshake } from "lucide-react";
 import { getSiteConfig } from "@/lib/content";
@@ -38,6 +39,14 @@ export default function HomePage() {
     <>
       <section className="bg-ink text-ink-fg">
         <div className="mx-auto max-w-[1280px] px-4 py-20 sm:px-6 sm:py-24 lg:px-8 lg:py-28">
+          <Image
+            src="/logos/jatl.jpg"
+            alt="JATL - Justice and the Law Society"
+            width={160}
+            height={160}
+            priority
+            className="mb-8 h-24 w-24 rounded-xl sm:h-28 sm:w-28"
+          />
           <p className="text-sm font-medium uppercase tracking-[0.18em] text-ink-fg/60">
             Justice and the Law Society · UQ
           </p>
@@ -109,25 +118,36 @@ export default function HomePage() {
             Proudly supported by
           </p>
           <ul className="mt-4 flex flex-wrap items-center justify-center gap-x-8 gap-y-3">
-            {site.sponsors.map((sponsor) => (
-              <li
-                key={sponsor.name}
-                className="text-sm font-medium text-text-muted"
-              >
-                {sponsor.href ? (
-                  <a
-                    href={sponsor.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-accent"
-                  >
-                    {sponsor.name}
-                  </a>
-                ) : (
-                  sponsor.name
-                )}
-              </li>
-            ))}
+            {site.sponsors.map((sponsor) => {
+              const content = sponsor.logoUrl ? (
+                <Image
+                  src={sponsor.logoUrl}
+                  alt={sponsor.name}
+                  width={120}
+                  height={48}
+                  className="h-12 w-auto rounded-md"
+                />
+              ) : (
+                <span className="text-sm font-medium text-text-muted">{sponsor.name}</span>
+              );
+              return (
+                <li key={sponsor.name}>
+                  {sponsor.href ? (
+                    <a
+                      href={sponsor.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={sponsor.name}
+                      className="inline-flex items-center transition-opacity hover:opacity-80"
+                    >
+                      {content}
+                    </a>
+                  ) : (
+                    content
+                  )}
+                </li>
+              );
+            })}
           </ul>
         </div>
       </section>

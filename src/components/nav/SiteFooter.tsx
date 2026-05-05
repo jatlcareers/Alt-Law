@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { AltLawLogo } from "@/components/ui/AltLawLogo";
 import type { SiteConfig } from "@/lib/types";
@@ -65,24 +66,36 @@ export function SiteFooter({ sponsors }: Props) {
               Proudly supported by
             </h3>
             <ul className="mt-3 space-y-2">
-              {sponsors.map((sponsor) =>
-                sponsor.href ? (
-                  <li key={sponsor.name}>
-                    <a
-                      href={sponsor.href}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-sm text-text-muted transition-colors hover:text-accent"
-                    >
-                      {sponsor.name}
-                    </a>
-                  </li>
+              {sponsors.map((sponsor) => {
+                const inner = sponsor.logoUrl ? (
+                  <Image
+                    src={sponsor.logoUrl}
+                    alt={sponsor.name}
+                    width={96}
+                    height={40}
+                    className="h-10 w-auto rounded-md"
+                  />
                 ) : (
-                  <li key={sponsor.name} className="text-sm text-text-muted">
-                    {sponsor.name}
+                  <span className="text-sm text-text-muted">{sponsor.name}</span>
+                );
+                return (
+                  <li key={sponsor.name}>
+                    {sponsor.href ? (
+                      <a
+                        href={sponsor.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label={sponsor.name}
+                        className="inline-flex items-center transition-opacity hover:opacity-80"
+                      >
+                        {inner}
+                      </a>
+                    ) : (
+                      inner
+                    )}
                   </li>
-                ),
-              )}
+                );
+              })}
             </ul>
           </div>
         </div>
