@@ -8,5 +8,5 @@
 - Tailwind v4 utility classes will be silently overridden by unlayered CSS — always wrap custom rules in `@layer base { ... }` or `@layer components { ... }` in `globals.css`.
 - `pnpm` on the original author's machine needs `COREPACK_INTEGRITY_KEYS=0` prefix; CI does not.
 - Never add em dashes to content or copy. House style is hyphens (`-`).
-- Build uses `NEXT_PUBLIC_BASE_PATH=/Alt-Law` and `NEXT_PUBLIC_SITE_URL=https://jatlcareers.github.io/Alt-Law` for GitHub Pages deploy. Local dev uses no basePath.
+- Build uses `NEXT_PUBLIC_SITE_URL=https://altlawuqjatl.com` for GitHub Pages deploy. The site lives at the apex of `altlawuqjatl.com` with no basePath; `public/CNAME` carries the domain into the deploy artifact.
 - All internal `<Link>` hrefs include trailing slashes to satisfy `trailingSlash: true` in `next.config.ts`.
