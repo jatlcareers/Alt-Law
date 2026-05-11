@@ -41,14 +41,14 @@ export default function HomePage() {
   return (
     <>
       <section className="bg-ink text-ink-fg">
-        <div className="mx-auto max-w-[1280px] px-4 py-20 sm:px-6 sm:py-24 lg:px-8 lg:py-28">
+        <div className="mx-auto max-w-[1280px] px-4 py-14 sm:px-6 sm:py-20 lg:px-8 lg:py-28">
           <Image
             src={withBasePath("/logos/jatl.jpg")}
             alt="JATL - Justice and the Law Society"
             width={160}
             height={160}
             priority
-            className="mb-8 h-24 w-24 rounded-xl sm:h-28 sm:w-28"
+            className="mb-6 h-20 w-20 rounded-xl sm:mb-8 sm:h-28 sm:w-28"
           />
           <p className="text-sm font-medium uppercase tracking-[0.18em] text-ink-fg/60">
             Justice and the Law Society · UQ

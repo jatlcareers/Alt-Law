@@ -30,7 +30,7 @@ export function SiteHeader() {
 
         <nav
           aria-label="Primary"
-          className="hidden md:flex items-center gap-1"
+          className="hidden lg:flex items-center gap-1"
         >
           {NAV_LINKS.map((link) => (
             <Link
@@ -55,7 +55,7 @@ export function SiteHeader() {
           aria-controls="mobile-nav"
           aria-label={open ? "Close menu" : "Open menu"}
           onClick={() => setOpen((o) => !o)}
-          className="inline-flex h-10 w-10 items-center justify-center rounded-md text-text-muted hover:bg-bg-muted md:hidden"
+          className="inline-flex h-10 w-10 items-center justify-center rounded-md text-text-muted hover:bg-bg-muted lg:hidden"
         >
           {open ? <X size={20} /> : <Menu size={20} />}
         </button>
@@ -64,7 +64,7 @@ export function SiteHeader() {
       <div
         id="mobile-nav"
         className={cn(
-          "md:hidden border-t border-border bg-bg",
+          "lg:hidden border-t border-border bg-bg",
           open ? "block" : "hidden",
         )}
       >
