@@ -1,9 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, GraduationCap, Briefcase, HeartHandshake } from "lucide-react";
-import { getSiteConfig } from "@/lib/content";
+import { getSiteConfig, getTestimonials } from "@/lib/content";
 import { buildMetadata } from "@/lib/og";
 import { withBasePath } from "@/lib/asset";
+import { TestimonialsSection } from "@/components/home/TestimonialsSection";
 
 export const metadata = buildMetadata({
   title: "JATL's Alt+Law Student Careers Guide",
@@ -35,6 +36,7 @@ const FEATURES = [
 
 export default function HomePage() {
   const site = getSiteConfig();
+  const testimonials = getTestimonials();
 
   return (
     <>
@@ -112,6 +114,8 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <TestimonialsSection testimonials={testimonials} />
 
       <section className="bg-bg border-t border-border">
         <div className="mx-auto max-w-[1280px] px-4 py-10 sm:px-6 lg:px-8">
