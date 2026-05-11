@@ -34,8 +34,7 @@ jobs:
 
       - name: Build
         env:
-          NEXT_PUBLIC_BASE_PATH: /Alt-Law
-          NEXT_PUBLIC_SITE_URL: https://jatlcareers.github.io/Alt-Law
+          NEXT_PUBLIC_SITE_URL: https://altlawuqjatl.com
         run: pnpm build
 
       - name: Configure Pages
